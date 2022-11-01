@@ -8,3 +8,6 @@
 <br>
 > ⚠️ All the code associated with this repository are written by me, and is intended to help learners to take reference from it and build their own amazing stuffs. Please don't copy paste the exact code if you find yourself in trouble while coding, instead take reference and then build intuition for it and code yourself. I highly support project based learing and suggest everyone to make projects while learning, because that will shine in your resume and also enhance your portfolio😎
 
+# Read Posts📑
+- [Read on Medium](https://medium.com/@Kartikey_verma)
+- [Read on Hashnode](https://hashnode.com/@KvofficialX)
