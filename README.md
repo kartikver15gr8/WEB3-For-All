@@ -11,3 +11,6 @@
 # Read Blogs📑
 - [Read on Medium](https://medium.com/@Kartikey_verma)
 - [Read on Hashnode](https://hashnode.com/@KvofficialX)
+
+# Codes👨‍💻
+[Solidity Codes](https://github.com/kartikver15gr8/Learn-Solidity-with-me)
