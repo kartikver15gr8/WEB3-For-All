@@ -27,31 +27,24 @@
 | 19 oct 2022  | Web3 is fun | https://twitter.com/kvofficialx/status/1582650558678151168?s=20&t=ryriaEmO4X05G_FUiUfzgQ |
 | 19 oct 2022  | NFT Context | https://twitter.com/kvofficialx/status/1582794281449795584?s=20&t=ryriaEmO4X05G_FUiUfzgQ |
 | 20 oct 2022  | Arrays & Structs in Solidity | https://twitter.com/kvofficialx/status/1583001922889388033?s=20&t=ryriaEmO4X05G_FUiUfzgQ |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
-| Date  | Topic | Link |
+| 20 oct 2022  | Solidity basics | https://twitter.com/kvofficialx/status/1583042574138322944?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 20 oct 2022  | Crypt Explained! | https://twitter.com/kvofficialx/status/1583158835052564482?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 21 oct 2022  | MIT License for writing contracts | https://twitter.com/kvofficialx/status/1583381495216947200?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 23 oct 2022  | LearnWeb3 Twitter Space | https://twitter.com/kvofficialx/status/1584066301131362304?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 24 oct 2022  | Big Opportunity for People want to dive into Web3 | https://twitter.com/kvofficialx/status/1584263800982642688?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 25 oct 2022  | Best resources to learn Web3 | https://twitter.com/kvofficialx/status/1584928296646496256?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 25 oct 2022  | Reading and Writing to a State variable in solidity | https://twitter.com/kvofficialx/status/1584952194889314304?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 26 oct 2022  | Learn JavaScript for Web3 | https://twitter.com/kvofficialx/status/1585198001672552449?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 26 oct 2022  | Mappings in Solidity | https://twitter.com/kvofficialx/status/1585235806209220608?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 26 oct 2022  | NFTs Explained! | https://twitter.com/kvofficialx/status/1585335333570240514?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 27 oct 2022  | Best Resources to Learn Solidity | https://twitter.com/kvofficialx/status/1585543804181835776?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 28 oct 2022  | Distributed Ledgers | https://twitter.com/kvofficialx/status/1585941498360520705?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 29 oct 2022  | Web3.university | https://twitter.com/kvofficialx/status/1586293488596893697?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 29 oct 2022  | Completed Remix | https://twitter.com/kvofficialx/status/1586349916166623237?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 30 oct 2022  | Functions in Solidity | https://twitter.com/kvofficialx/status/1586658540051054593?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 30 oct 2022  | Learn Solidity by example | https://twitter.com/kvofficialx/status/1586675235964624897?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 30 oct 2022  | CryptoZombies | https://twitter.com/kvofficialx/status/1586724352120143872?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 31 oct 2022  | Learn Web3 & Blockchain Technology | https://twitter.com/kvofficialx/status/1587140559440707584?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 1 nov 2022  | Alchemy's Twitter Space | https://twitter.com/kvofficialx/status/1587478062567854081?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 2 nov 2022  | What are Distributed Ledgers | https://twitter.com/kvofficialx/status/1587691362480054272?s=20&t=p9bktNO3sV082SpVdojMrA |
+| 3 nov 2022  | Blog on Distributed Ledgers | https://twitter.com/kvofficialx/status/1588119676801798144?s=20&t=p9bktNO3sV082SpVdojMrA |
