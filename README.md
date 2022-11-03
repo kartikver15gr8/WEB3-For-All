@@ -14,6 +14,8 @@
 - [Solidity by Example](https://solidity-by-example.org/)
 - [Learn Web3](https://learnweb3.io/)
 - [Learn JavaScript in the best way!](https://learnjavascript.online/app.html)
+- [Watch 32 hours tutorial and Learn Web3](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22635s)
+- [Watch Solidity tutorial](https://www.youtube.com/watch?v=EhPeHeoKF88)
 
 # Read Blogs📑
 - [Read on Medium](https://medium.com/@Kartikey_verma)
