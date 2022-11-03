@@ -1,5 +1,7 @@
 # Learn WEB3 in an amazing way⛓🤞
-**Learn Blockchain and deep dive into web3 space.**
+**Learn Blockchain and deep dive into web3 space.** <br>
+
+**Check out all the Twitter Post** [Here!](https://github.com/kartikver15gr8/WEB3-For-All/blob/main/Twitter-Posts.md)
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/91731654/199312436-295b76fb-05a1-495e-ad95-1cf42a665aea.png)
@@ -23,3 +25,48 @@
 
 # Codes👨‍💻
 [Solidity Codes](https://github.com/kartikver15gr8/Learn-Solidity-with-me)
+
+# Active Blockchains⛓🌐
+
+- [Aeternity](https://aeternity.com/)
+- [Algorand](https://www.algorand.com/)
+- [Arbitrum](https://offchainlabs.com/)
+- [Avalanche](https://www.avax.network/)
+- [Binance Smart Chain](https://www.binance.com/en/support/announcement/854415cf3d214371a7b60cf01ead0918)
+- [BitCoin](https://bitcoin.org/en/)
+- [Cardano](https://cardano.org/) 
+- [Celo](https://celo.org/)
+- [Chia](https://www.chia.net/)
+- [Corda](https://www.corda.net/)
+- [Cosmos](https://cosmos.network/)
+- [EOSIO](https://eos.io/) 
+- [Ethereum](https://ethereum.org/en/)
+- [Elrond](https://elrond.com)
+- [Fantom](https://fantom.foundation/) 
+- [Flow](https://flow.com/) 
+- [Harmony](https://www.harmony.one/)
+- [Hedera Hashgraph](https://hedera.com/)
+- [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) 
+- [IBM Blockchain](https://www.ibm.com/blockchain) 
+- [Internet Computer](https://internetcomputer.org/) 
+- [Kadena](https://kadena.io/) 
+- [Klaytn](https://www.klaytn.com/) 
+- [Lightning Network](https://lightning.network/) 
+- [MultiChain](https://www.multichain.com/) 
+- [Near](https://near.org/) 
+- [Oasis](https://oasisprotocol.org/)
+- [Optimism](https://www.optimism.io/)
+- [Oracle Blockchain](https://www.oracle.com/blockchain/)
+- [Polkadot](https://polkadot.network/) 
+- [Polygon](https://polygon.technology/) 
+- [Skale](https://skale.space/) 
+- [Solana](https://solana.com/) 
+- [Starknet](https://starkware.co/starknet/) 
+- [Stellar](https://www.stellar.org/) 
+- [Telos](https://www.telos.net/)
+- [Tezos](https://tezos.com/) 
+- [Tron](https://tron.network/) 
+- [XinFin](https://xinfin.org/) 
+- [ZkSync](https://zksync.io/) 
+- [Zilliqa](https://www.zilliqa.com/) 
+- [5ire](https://www.5ire.org/) 
