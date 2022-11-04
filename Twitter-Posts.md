@@ -1,5 +1,8 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 4 nov 2022    | OperSource Opportunities for Web3 Developers    | https://twitter.com/kvofficialx/status/1588457607425323008?s=20&t=PxuMMmxeQ_KWoYOoNO2nrA |
+| 4 nov 2022    | Learn Web3 and get paid                         | https://twitter.com/kvofficialx/status/1588451612422721538?s=20&t=PxuMMmxeQ_KWoYOoNO2nrA |
+| 3 nov 2022    | Space on Web2 integrating Web3                  | https://twitter.com/kvofficialx/status/1588228816845275137?s=20&t=PxuMMmxeQ_KWoYOoNO2nrA |
 | 3 nov 2022    | Blog on Distributed Ledgers                     | https://twitter.com/kvofficialx/status/1588119676801798144?s=20&t=p9bktNO3sV082SpVdojMrA |
 | 2 nov 2022    | What are Distributed Ledgers                    | https://twitter.com/kvofficialx/status/1587691362480054272?s=20&t=p9bktNO3sV082SpVdojMrA |
 | 1 nov 2022    | Alchemy's Twitter Space                         | https://twitter.com/kvofficialx/status/1587478062567854081?s=20&t=p9bktNO3sV082SpVdojMrA |
