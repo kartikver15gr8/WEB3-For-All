@@ -69,4 +69,3 @@
 - [XinFin](https://xinfin.org/) 
 - [ZkSync](https://zksync.io/) 
 - [Zilliqa](https://www.zilliqa.com/) 
-- [5ire](https://www.5ire.org/) 
