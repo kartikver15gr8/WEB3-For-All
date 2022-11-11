@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 5 nov 2022    | Simple Price Convertor contract in Solidity     | https://twitter.com/kvofficialx/status/1588587632673828865?s=20&t=m2Gkq0tz3xQ8PjPK9qHAMQ |
+| 4 nov 2022    | DevRel Daily Coffee Chat space                  | https://twitter.com/kvofficialx/status/1588498518398095362?s=20&t=m2Gkq0tz3xQ8PjPK9qHAMQ |
 | 4 nov 2022    | OperSource Opportunities for Web3 Developers    | https://twitter.com/kvofficialx/status/1588457607425323008?s=20&t=PxuMMmxeQ_KWoYOoNO2nrA |
 | 4 nov 2022    | Learn Web3 and get paid                         | https://twitter.com/kvofficialx/status/1588451612422721538?s=20&t=PxuMMmxeQ_KWoYOoNO2nrA |
 | 3 nov 2022    | Space on Web2 integrating Web3                  | https://twitter.com/kvofficialx/status/1588228816845275137?s=20&t=PxuMMmxeQ_KWoYOoNO2nrA |
