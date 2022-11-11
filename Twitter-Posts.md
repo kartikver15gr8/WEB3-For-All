@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 5 nov 2022    | Declaration of Enums in Solidity                | https://twitter.com/kvofficialx/status/1588888822745825280?s=20&t=m2Gkq0tz3xQ8PjPK9qHAMQ |
 | 5 nov 2022    | Simple Price Convertor contract in Solidity     | https://twitter.com/kvofficialx/status/1588587632673828865?s=20&t=m2Gkq0tz3xQ8PjPK9qHAMQ |
 | 4 nov 2022    | DevRel Daily Coffee Chat space                  | https://twitter.com/kvofficialx/status/1588498518398095362?s=20&t=m2Gkq0tz3xQ8PjPK9qHAMQ |
 | 4 nov 2022    | OperSource Opportunities for Web3 Developers    | https://twitter.com/kvofficialx/status/1588457607425323008?s=20&t=PxuMMmxeQ_KWoYOoNO2nrA |
