@@ -1,5 +1,11 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 8 nov 2022    | Web3 Opportunities                              | https://twitter.com/kvofficialx/status/1590000408352944128?s=20&t=i3zydG4qLb9HYxZkw8LNeg |
+| 7 nov 2022    | Daily Insight of Blockchain world               | https://twitter.com/kvofficialx/status/1589992150603018241?s=20&t=i3zydG4qLb9HYxZkw8LNeg |
+| 7 nov 2022    | Don't open this😁😁                            | https://twitter.com/kvofficialx/status/1589639840584564737?s=20&t=i3zydG4qLb9HYxZkw8LNeg |
+| 7 nov 2022    | Libraries in Solidity                           | https://twitter.com/kvofficialx/status/1589339415201337345?s=20&t=i3zydG4qLb9HYxZkw8LNeg |
+| 6 nov 2022    | Visisbility of Smart Contracts in Solidity      | https://twitter.com/kvofficialx/status/1589222819648638976?s=20&t=i3zydG4qLb9HYxZkw8LNeg |
+| 6 nov 2022    | Growth in Crypto Coins                          | https://twitter.com/kvofficialx/status/1589172802279833600?s=20&t=i3zydG4qLb9HYxZkw8LNeg |
 | 5 nov 2022    | Declaration of Enums in Solidity                | https://twitter.com/kvofficialx/status/1588888822745825280?s=20&t=m2Gkq0tz3xQ8PjPK9qHAMQ |
 | 5 nov 2022    | Simple Price Convertor contract in Solidity     | https://twitter.com/kvofficialx/status/1588587632673828865?s=20&t=m2Gkq0tz3xQ8PjPK9qHAMQ |
 | 4 nov 2022    | DevRel Daily Coffee Chat space                  | https://twitter.com/kvofficialx/status/1588498518398095362?s=20&t=m2Gkq0tz3xQ8PjPK9qHAMQ |
