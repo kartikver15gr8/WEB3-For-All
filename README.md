@@ -24,6 +24,7 @@
 - [Read on Hashnode](https://hashnode.com/@KvofficialX)
 
 # Codes👨‍💻
+I've written these codes in solidity. These contracts contain some basic insights about solidity and how we can use it effectively.
 [Solidity Codes](https://github.com/kartikver15gr8/Learn-Solidity-with-me)
 
 # Active Blockchains⛓🌐
