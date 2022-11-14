@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 13 nov 2022   | FTX Saga Continues  | https://twitter.com/kvofficialx/status/1591781233553735680?s=20&t=G4rT0QziYD2_n_nQHE2kMg|
 | 8 nov 2022    | Web3 Opportunities                              | https://twitter.com/kvofficialx/status/1590000408352944128?s=20&t=i3zydG4qLb9HYxZkw8LNeg |
 | 7 nov 2022    | Daily Insight of Blockchain world               | https://twitter.com/kvofficialx/status/1589992150603018241?s=20&t=i3zydG4qLb9HYxZkw8LNeg |
 | 7 nov 2022    | Don't open this😁😁                            | https://twitter.com/kvofficialx/status/1589639840584564737?s=20&t=i3zydG4qLb9HYxZkw8LNeg |
