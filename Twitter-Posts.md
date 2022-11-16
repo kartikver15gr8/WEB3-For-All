@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 15 nov 2022   | Blockchain Oracles                              | https://twitter.com/kvofficialx/status/1592448021127516163?s=20&t=fOEc0dMkuLFXSTHwta7MMg |
 | 15 nov 2022   | FTX Saga explained 😅😄                        | https://twitter.com/kvofficialx/status/1592428717250588672?s=20&t=fOEc0dMkuLFXSTHwta7MMg |
 | 13 nov 2022   | Modifiers in Funciton                           | https://twitter.com/kvofficialx/status/1591865897064730624?s=20&t=G4rT0QziYD2_n_nQHE2kMg |
 | 13 nov 2022   | FTX Saga Continues                              | https://twitter.com/kvofficialx/status/1591781233553735680?s=20&t=G4rT0QziYD2_n_nQHE2kMg |
