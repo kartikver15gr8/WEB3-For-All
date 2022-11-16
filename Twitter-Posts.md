@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+
+| 15 nov 2022   | FTX Saga explained 😅😄                        | https://twitter.com/kvofficialx/status/1592428717250588672?s=20&t=fOEc0dMkuLFXSTHwta7MMg |
 | 13 nov 2022   | Modifiers in Funciton                           | https://twitter.com/kvofficialx/status/1591865897064730624?s=20&t=G4rT0QziYD2_n_nQHE2kMg |
 | 13 nov 2022   | FTX Saga Continues                              | https://twitter.com/kvofficialx/status/1591781233553735680?s=20&t=G4rT0QziYD2_n_nQHE2kMg |
 | 8 nov 2022    | Web3 Opportunities                              | https://twitter.com/kvofficialx/status/1590000408352944128?s=20&t=i3zydG4qLb9HYxZkw8LNeg |
