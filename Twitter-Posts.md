@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 17 nov 2022   | Polygon studios and Tunl collaboration          | https://twitter.com/kvofficialx/status/1593279572857847809?s=20&t=r_L5VpvXvfAHJxlTIRnCRQ |
 | 16 nov 2022   | Remix Ethereum IDE                              | https://twitter.com/kvofficialx/status/1592947440797495296?s=20&t=r_L5VpvXvfAHJxlTIRnCRQ |
 | 15 nov 2022   | Blockchain Oracles                              | https://twitter.com/kvofficialx/status/1592448021127516163?s=20&t=fOEc0dMkuLFXSTHwta7MMg |
 | 15 nov 2022   | FTX Saga explained 😅😄                        | https://twitter.com/kvofficialx/status/1592428717250588672?s=20&t=fOEc0dMkuLFXSTHwta7MMg |
