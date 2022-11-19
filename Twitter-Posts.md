@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 19 nov 2022   | Community post                                  | https://twitter.com/kvofficialx/status/1594020443232796672?s=20&t=4BSIvOEnSFk9Bjd_GJI4pA |
+| 18 nov 2022   | Badge from Appwrite for Hacktoberfest 2k22      | https://twitter.com/kvofficialx/status/1593627325052043264?s=20&t=4BSIvOEnSFk9Bjd_GJI4pA |
 | 17 nov 2022   | Polygon studios and Tunl collaboration          | https://twitter.com/kvofficialx/status/1593279572857847809?s=20&t=r_L5VpvXvfAHJxlTIRnCRQ |
 | 16 nov 2022   | Remix Ethereum IDE                              | https://twitter.com/kvofficialx/status/1592947440797495296?s=20&t=r_L5VpvXvfAHJxlTIRnCRQ |
 | 15 nov 2022   | Blockchain Oracles                              | https://twitter.com/kvofficialx/status/1592448021127516163?s=20&t=fOEc0dMkuLFXSTHwta7MMg |
