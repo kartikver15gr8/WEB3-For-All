@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 20 nov 2022   | Events In Soldity                               | https://twitter.com/kvofficialx/status/1594226211060076545?s=20&t=xil4Fh__BPg4LpYwEMcZxA |
+| 19 nov 2022   | Alchemy Web3 University                         | https://twitter.com/kvofficialx/status/1594045214531780608?s=20&t=xil4Fh__BPg4LpYwEMcZxA |
 | 19 nov 2022   | Alchemy University                              | https://twitter.com/kvofficialx/status/1594044359003209728?s=20&t=xil4Fh__BPg4LpYwEMcZxA |
 | 19 nov 2022   | Community post                                  | https://twitter.com/kvofficialx/status/1594020443232796672?s=20&t=4BSIvOEnSFk9Bjd_GJI4pA |
 | 18 nov 2022   | Badge from Appwrite for Hacktoberfest 2k22      | https://twitter.com/kvofficialx/status/1593627325052043264?s=20&t=4BSIvOEnSFk9Bjd_GJI4pA |
