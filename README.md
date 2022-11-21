@@ -13,7 +13,6 @@
 # Web3 Oracle:
 ![image](https://user-images.githubusercontent.com/91731654/203131092-0e0cd767-0fc3-4973-b051-ed40a1f8bfdf.png)
 
-
 # Some Awesome Resources⛵
 - [CryptoZombies](https://cryptozombies.io/)
 - [Ethereum](https://ethereum.org/en/)
