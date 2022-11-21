@@ -12,7 +12,7 @@
 
 # Web3 Oracle:
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/91731654/203132182-a999813f-a57e-4061-ad06-645aaf94230c.png">
+  <img width="860" height="500" src="https://user-images.githubusercontent.com/91731654/203132182-a999813f-a57e-4061-ad06-645aaf94230c.png">
 </p>
 
 # Some Awesome Resources⛵
