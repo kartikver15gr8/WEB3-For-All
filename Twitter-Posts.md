@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 20 nov 2022   | Proof of Stake By Vitalik Buterin               | https://twitter.com/kvofficialx/status/1594396224341168128?s=20&t=K5mmF0peRtaDXZ3gLZUEpw | 
 | 20 nov 2022   | Events In Soldity                               | https://twitter.com/kvofficialx/status/1594226211060076545?s=20&t=xil4Fh__BPg4LpYwEMcZxA |
 | 19 nov 2022   | Alchemy Web3 University                         | https://twitter.com/kvofficialx/status/1594045214531780608?s=20&t=xil4Fh__BPg4LpYwEMcZxA |
 | 19 nov 2022   | Alchemy University                              | https://twitter.com/kvofficialx/status/1594044359003209728?s=20&t=xil4Fh__BPg4LpYwEMcZxA |
