@@ -1,5 +1,8 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 24 nov 2022   | Alchemy University                              | https://twitter.com/kvofficialx/status/1595647254609666049?s=20&t=dy8zZ4cNHTDENTJL0G3ObA |
+| 24 nov 2022   | Alchemy University Web3 Learning Program        | https://twitter.com/kvofficialx/status/1595647254609666049?s=20&t=dy8zZ4cNHTDENTJL0G3ObA |
+| 22 nov 2022   | Inheritance in Soldity                          | https://twitter.com/kvofficialx/status/1595084784212246529?s=20&t=dy8zZ4cNHTDENTJL0G3ObA |
 | 20 nov 2022   | Proof of Stake By Vitalik Buterin               | https://twitter.com/kvofficialx/status/1594396224341168128?s=20&t=K5mmF0peRtaDXZ3gLZUEpw | 
 | 20 nov 2022   | Events In Soldity                               | https://twitter.com/kvofficialx/status/1594226211060076545?s=20&t=xil4Fh__BPg4LpYwEMcZxA |
 | 19 nov 2022   | Alchemy Web3 University                         | https://twitter.com/kvofficialx/status/1594045214531780608?s=20&t=xil4Fh__BPg4LpYwEMcZxA |
