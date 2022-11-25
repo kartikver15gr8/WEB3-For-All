@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 25 nov 2022   | Shadowing Inherited State Variables in Solidity | https://twitter.com/kvofficialx/status/1596174413749420032?s=20&t=jntNFXIm82b-jU35t4AAgQ |
 | 24 nov 2022   | Alchemy University                              | https://twitter.com/kvofficialx/status/1595672384065114112?s=20&t=dy8zZ4cNHTDENTJL0G3ObA |
 | 24 nov 2022   | Alchemy University Web3 Learning Program        | https://twitter.com/kvofficialx/status/1595647254609666049?s=20&t=dy8zZ4cNHTDENTJL0G3ObA |
 | 22 nov 2022   | Inheritance in Soldity                          | https://twitter.com/kvofficialx/status/1595084784212246529?s=20&t=dy8zZ4cNHTDENTJL0G3ObA |
