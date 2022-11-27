@@ -75,4 +75,3 @@ I've written these codes in solidity. These contracts contain some basic insight
 - [Tron](https://tron.network/) 
 - [XinFin](https://xinfin.org/) 
 - [ZkSync](https://zksync.io/) 
-- [Zilliqa](https://www.zilliqa.com/) 
