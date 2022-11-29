@@ -74,4 +74,3 @@ I've written these codes in solidity. These contracts contain some basic insight
 - [Tezos](https://tezos.com/) 
 - [Tron](https://tron.network/) 
 - [XinFin](https://xinfin.org/) 
-- [ZkSync](https://zksync.io/) 
