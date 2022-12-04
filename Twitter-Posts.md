@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 4 dec 2022    | Delegatecall in Solidity                        | https://twitter.com/kvofficialx/status/1599394986264784897?s=20&t=DcMAHxLCIW9U9s3xu8kSVA |
 | 28 nov 2022   | Function Seletors in Solidity                   | https://twitter.com/kvofficialx/status/1597118732316598277?s=20&t=5TsuX3mfMc5u--T_0nue3g |
 | 26 nov 2022   | Proof of Work & Proof of Stake                  | https://twitter.com/kvofficialx/status/1596402992743583744?s=20&t=hJXwuYdXJXuDNomhFGt4bQ |
 | 25 nov 2022   | Shadowing Inherited State Variables in Solidity | https://twitter.com/kvofficialx/status/1596174413749420032?s=20&t=jntNFXIm82b-jU35t4AAgQ |
