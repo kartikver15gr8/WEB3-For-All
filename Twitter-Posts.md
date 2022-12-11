@@ -1,5 +1,8 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 11 dec 2022   | Blockchain Applications                         | https://twitter.com/kvofficialx/status/1601853557816274944?s=20&t=ihN-a2ZKWFDF12K6WdgU_A |
+| 11 dec 2022   | Remix                                           | https://twitter.com/kvofficialx/status/1601822458364891136?s=20&t=ihN-a2ZKWFDF12K6WdgU_A | 
+| 10 dec 2022   | Polygon Post                                    | https://twitter.com/kvofficialx/status/1601538624549330946?s=20&t=ihN-a2ZKWFDF12K6WdgU_A |
 | 8 dec 2022    | Web3 Insight!                                   | https://twitter.com/kvofficialx/status/1600737996726099968?s=20&t=iXcNYLZnCADJG92V2L_ovQ |
 | 4 dec 2022    | Delegatecall in Solidity                        | https://twitter.com/kvofficialx/status/1599394986264784897?s=20&t=DcMAHxLCIW9U9s3xu8kSVA |
 | 28 nov 2022   | Function Seletors in Solidity                   | https://twitter.com/kvofficialx/status/1597118732316598277?s=20&t=5TsuX3mfMc5u--T_0nue3g |
