@@ -1,5 +1,8 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 12 dec 2022   | What is Lens Protocol                           | https://twitter.com/kvofficialx/status/1602237734554255360?s=20&t=xhzdxomOXakDJLgxcZPIGA |
+| 12 dec 2022   | What is Chainlink                               | https://twitter.com/kvofficialx/status/1602202902168145920?s=20&t=xhzdxomOXakDJLgxcZPIGA | 
+| 12 dec 2022   | Thread on Solana                                | https://twitter.com/kvofficialx/status/1601990116238467073?s=20&t=xhzdxomOXakDJLgxcZPIGA |
 | 11 dec 2022   | Blockchain Applications                         | https://twitter.com/kvofficialx/status/1601853557816274944?s=20&t=ihN-a2ZKWFDF12K6WdgU_A |
 | 11 dec 2022   | Remix                                           | https://twitter.com/kvofficialx/status/1601822458364891136?s=20&t=ihN-a2ZKWFDF12K6WdgU_A | 
 | 10 dec 2022   | Polygon Post                                    | https://twitter.com/kvofficialx/status/1601538624549330946?s=20&t=ihN-a2ZKWFDF12K6WdgU_A |
