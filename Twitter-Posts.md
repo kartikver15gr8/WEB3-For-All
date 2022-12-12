@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 12 dec 2022   | Alchemy University JavaScript                   | https://twitter.com/kvofficialx/status/1602253386770153472?s=20&t=keKN-1x26kn1vs3jieAtQg | 
 | 12 dec 2022   | What is Lens Protocol                           | https://twitter.com/kvofficialx/status/1602237734554255360?s=20&t=xhzdxomOXakDJLgxcZPIGA |
 | 12 dec 2022   | What is Chainlink                               | https://twitter.com/kvofficialx/status/1602202902168145920?s=20&t=xhzdxomOXakDJLgxcZPIGA | 
 | 12 dec 2022   | Thread on Solana                                | https://twitter.com/kvofficialx/status/1601990116238467073?s=20&t=xhzdxomOXakDJLgxcZPIGA |
