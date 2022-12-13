@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 13 dec 2022   | APIs vs SDKs                                    | https://twitter.com/kvofficialx/status/1602607858494881794?s=20&t=d_AkkHY5d5a8giA8H1EbZg |
+| 13 dec 2022   | JavaScript Thread                               | https://twitter.com/kvofficialx/status/1602572641197359104?s=20&t=d_AkkHY5d5a8giA8H1EbZg |
 | 12 dec 2022   | Alchemy University JavaScript                   | https://twitter.com/kvofficialx/status/1602253386770153472?s=20&t=keKN-1x26kn1vs3jieAtQg | 
 | 12 dec 2022   | What is Lens Protocol                           | https://twitter.com/kvofficialx/status/1602237734554255360?s=20&t=xhzdxomOXakDJLgxcZPIGA |
 | 12 dec 2022   | What is Chainlink                               | https://twitter.com/kvofficialx/status/1602202902168145920?s=20&t=xhzdxomOXakDJLgxcZPIGA | 
