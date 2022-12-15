@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 15 dec 2022   | What are Defis                                  | https://twitter.com/kvofficialx/status/1603290589079883776?s=20&t=U6T4XDy2kX1oMazZtsIlHA |
 | 14 dec 2022   | What is Gas in Ethereum                         | https://twitter.com/kvofficialx/status/1603062306614583303?s=20&t=jtTFsAdC07V-KrI6Ietn5w |
 | 14 dec 2022   | Proof of Work                                   | https://twitter.com/kvofficialx/status/1602991933307043840?s=20&t=6wFGBJ9oSVsuXna8FXO-Yw |
 | 13 dec 2022   | APIs vs SDKs                                    | https://twitter.com/kvofficialx/status/1602607858494881794?s=20&t=d_AkkHY5d5a8giA8H1EbZg |
