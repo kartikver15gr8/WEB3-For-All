@@ -1,5 +1,10 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 19 dec 2022   | The product House                               | https://twitter.com/kvofficialx/status/1604856657804083201?s=20&t=XLucL2IxfOgGLJQBPhBCrQ |
+| 18 dec 2022   | Polygon update                                  | https://twitter.com/kvofficialx/status/1604495851669164034?s=20&t=XLucL2IxfOgGLJQBPhBCrQ | 
+| 16 dec 2022   | Alchemy got Blue                                | https://twitter.com/kvofficialx/status/1603812294856568833?s=20&t=XLucL2IxfOgGLJQBPhBCrQ |
+| 16 dec 2022   | Outdid.io                                       | https://twitter.com/kvofficialx/status/1603638354934845441?s=20&t=XLucL2IxfOgGLJQBPhBCrQ |
+| 15 dec 2022   | ChatGPT is fun😁                                | https://twitter.com/kvofficialx/status/1603428217812942854?s=20&t=XLucL2IxfOgGLJQBPhBCrQ |
 | 15 dec 2022   | What are Defis                                  | https://twitter.com/kvofficialx/status/1603290589079883776?s=20&t=U6T4XDy2kX1oMazZtsIlHA |
 | 14 dec 2022   | What is Gas in Ethereum                         | https://twitter.com/kvofficialx/status/1603062306614583303?s=20&t=jtTFsAdC07V-KrI6Ietn5w |
 | 14 dec 2022   | Proof of Work                                   | https://twitter.com/kvofficialx/status/1602991933307043840?s=20&t=6wFGBJ9oSVsuXna8FXO-Yw |
