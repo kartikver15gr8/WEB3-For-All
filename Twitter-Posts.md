@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 21 dec 2022   | Alchemy Town Hall                               | https://twitter.com/kvofficialx/status/1605621689269727232?s=20&t=MSuCcbIZNQnjt9CpMxtusQ |
 | 19 dec 2022   | The product House                               | https://twitter.com/kvofficialx/status/1604856657804083201?s=20&t=XLucL2IxfOgGLJQBPhBCrQ |
 | 18 dec 2022   | Polygon update                                  | https://twitter.com/kvofficialx/status/1604495851669164034?s=20&t=XLucL2IxfOgGLJQBPhBCrQ | 
 | 16 dec 2022   | Alchemy got Blue                                | https://twitter.com/kvofficialx/status/1603812294856568833?s=20&t=XLucL2IxfOgGLJQBPhBCrQ |
