@@ -11,6 +11,7 @@
 > ⚠️ All the code associated with this repository are written by me, and is intended to help learners to take reference from it and build their own amazing stuffs. Please don't copy paste the exact code if you find yourself in trouble while coding, instead take reference and then build intuition for it and code yourself. I highly support project based learing and suggest everyone to make projects while learning, because that will shine in your resume and also enhance your portfolio😎
 
 # Web3 Oracle:
+https://ethereum.org/en/developers/docs/oracles/
 <p align="center">
   <img width="860" height="500" src="https://user-images.githubusercontent.com/91731654/203132182-a999813f-a57e-4061-ad06-645aaf94230c.png">
 </p>
