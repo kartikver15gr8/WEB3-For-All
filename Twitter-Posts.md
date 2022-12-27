@@ -1,6 +1,5 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
-
 | 23 dec 2022   | Best resources for learning full-stack dev      | https://twitter.com/kvofficialx/status/1606300271558021121?s=20&t=CcOrSmOOXCC1O-VZRawHAw | 
 | 23 dec 2022   | Alchemy session                                 | https://twitter.com/kvofficialx/status/1605997069717495809?s=20&t=CcOrSmOOXCC1O-VZRawHAw | 
 | 21 dec 2022   | Alchemy Town Hall                               | https://twitter.com/kvofficialx/status/1605621689269727232?s=20&t=MSuCcbIZNQnjt9CpMxtusQ |
