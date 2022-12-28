@@ -1,5 +1,9 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 28 dec 2022   | Stablecoins                                     | https://twitter.com/kvofficialx/status/1608031255085613058?s=20&t=k0VJFGSR_sk4NAwug0Ca1A | 
+| 27 dec 2022   | IPFS in Blockchain                              | https://twitter.com/kvofficialx/status/1607803561760653313?s=20&t=k0VJFGSR_sk4NAwug0Ca1A | 
+| 27 dec 2022   | What are Flash Loans in Blockchain              | https://twitter.com/kvofficialx/status/1607752494108798984?s=20&t=k0VJFGSR_sk4NAwug0Ca1A |
+| 27 dec 2022   | What is Mining in Blockchain                    | https://twitter.com/kvofficialx/status/1607587705277534210?s=20&t=k0VJFGSR_sk4NAwug0Ca1A |
 | 23 dec 2022   | Best resources for learning full-stack dev      | https://twitter.com/kvofficialx/status/1606300271558021121?s=20&t=CcOrSmOOXCC1O-VZRawHAw | 
 | 23 dec 2022   | Alchemy session                                 | https://twitter.com/kvofficialx/status/1605997069717495809?s=20&t=CcOrSmOOXCC1O-VZRawHAw | 
 | 21 dec 2022   | Alchemy Town Hall                               | https://twitter.com/kvofficialx/status/1605621689269727232?s=20&t=MSuCcbIZNQnjt9CpMxtusQ |
