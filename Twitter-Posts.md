@@ -1,5 +1,8 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 29 dec 2022   | dApps (Decentralized Applications)              | https://twitter.com/kvofficialx/status/1608468573282004993?s=20&t=lQ87NnoKIqRzdysqr2kbeg | 
+| 29 dec 2022   | Public and Private Blockchains                  | https://twitter.com/kvofficialx/status/1608396308993429505?s=20&t=lQ87NnoKIqRzdysqr2kbeg |
+| 29 dec 2022   | Consensus in Blockchain                         | https://twitter.com/kvofficialx/status/1608367562106220545?s=20&t=lQ87NnoKIqRzdysqr2kbeg | 
 | 28 dec 2022   | Stablecoins                                     | https://twitter.com/kvofficialx/status/1608031255085613058?s=20&t=k0VJFGSR_sk4NAwug0Ca1A | 
 | 27 dec 2022   | IPFS in Blockchain                              | https://twitter.com/kvofficialx/status/1607803561760653313?s=20&t=k0VJFGSR_sk4NAwug0Ca1A | 
 | 27 dec 2022   | What are Flash Loans in Blockchain              | https://twitter.com/kvofficialx/status/1607752494108798984?s=20&t=k0VJFGSR_sk4NAwug0Ca1A |
