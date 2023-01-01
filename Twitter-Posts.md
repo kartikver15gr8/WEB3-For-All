@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 30 dec 2022   | Polygon Space                                   | https://twitter.com/kvofficialx/status/1608826459820552194?s=20&t=fRqmuVfGFe_Bpr4YohQgkg |
+| 30 dec 2022   | Genesis Block                                   | https://twitter.com/kvofficialx/status/1608786597218246656?s=20&t=fRqmuVfGFe_Bpr4YohQgkg | 
 | 30 dec 2022   | Merkle Trees and Merkle Roots                   | https://twitter.com/kvofficialx/status/1608725685450964998?s=20&t=qM23TcGHLY6r2PFjly4VdQ | 
 | 29 dec 2022   | dApps (Decentralized Applications)              | https://twitter.com/kvofficialx/status/1608468573282004993?s=20&t=lQ87NnoKIqRzdysqr2kbeg | 
 | 29 dec 2022   | Public and Private Blockchains                  | https://twitter.com/kvofficialx/status/1608396308993429505?s=20&t=lQ87NnoKIqRzdysqr2kbeg |
