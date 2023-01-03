@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 3 dec 2022    | Alchemy university                              | https://twitter.com/kvofficialx/status/1610266244510547968?s=20&t=-gkYQgHBF-co3RYrQytLxw |
 | 2 dec 2022    | Crypto Phishing                                 | https://twitter.com/kvofficialx/status/1609888471593943040?s=20&t=IYw8IC2TaSCkmOmgXwYWsQ |
 | 1 dec 2022    | Best Resources to learn Full Stack Dev          | https://twitter.com/kvofficialx/status/1609510968845033474?s=20&t=IYw8IC2TaSCkmOmgXwYWsQ | 
 | 30 dec 2022   | Polygon Space                                   | https://twitter.com/kvofficialx/status/1608826459820552194?s=20&t=fRqmuVfGFe_Bpr4YohQgkg |
