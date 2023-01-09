@@ -1,10 +1,11 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 9 dec 2022    | How to land a Web3 Job                          | https://twitter.com/kvofficialx/status/1612495087937916928?s=20&t=JUbq_kHgy0Jay2UcM5qxVg | 
 | 9 dec 2022    | EVM storing places                              | https://twitter.com/kvofficialx/status/1612367123762020360?s=20&t=8Z2r1YorTudCeNzwBA_M5Q |
 | 9 dec 2022    | Ethereum                                        | https://twitter.com/kvofficialx/status/1612348486804209665?s=20&t=C5X4AOcQduTHXLRpIAZgBg |
 | 8 dec 2022    | Francesco live stream (Alchemy University)      | https://twitter.com/kvofficialx/status/1612090176460951553?s=20&t=C5X4AOcQduTHXLRpIAZgBg |
 | 7 dec 2022    | Sharding in Blockchain                          | https://twitter.com/kvofficialx/status/1611658615823413258?s=20&t=C5X4AOcQduTHXLRpIAZgBg | 
-| 6 dec 2022    | Alchemy Townhall for Technical Writers          | https://twitter.com/kvofficialx/status/1611378986600497156?s=20&t=C5X4AOcQduTHXLRpIAZgBg
+| 6 dec 2022    | Alchemy Townhall for Technical Writers          | https://twitter.com/kvofficialx/status/1611378986600497156?s=20&t=C5X4AOcQduTHXLRpIAZgBg |
 | 3 dec 2022    | Alchemy university                              | https://twitter.com/kvofficialx/status/1610266244510547968?s=20&t=-gkYQgHBF-co3RYrQytLxw |
 | 2 dec 2022    | Crypto Phishing                                 | https://twitter.com/kvofficialx/status/1609888471593943040?s=20&t=IYw8IC2TaSCkmOmgXwYWsQ |
 | 1 dec 2022    | Best Resources to learn Full Stack Dev          | https://twitter.com/kvofficialx/status/1609510968845033474?s=20&t=IYw8IC2TaSCkmOmgXwYWsQ | 
