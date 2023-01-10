@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 10 dec 2022   | Smart Contract Tweet                            | https://twitter.com/kvofficialx/status/1612852858092912640?s=20&t=-FtRlxUateSY8pDIGFM--g | 
+| 10 dec 2022   | Blockchain                                      | https://twitter.com/kvofficialx/status/1612816657059287041?s=20&t=-FtRlxUateSY8pDIGFM--g | 
 | 9 dec 2022    | How to land a Web3 Job                          | https://twitter.com/kvofficialx/status/1612495087937916928?s=20&t=JUbq_kHgy0Jay2UcM5qxVg | 
 | 9 dec 2022    | EVM storing places                              | https://twitter.com/kvofficialx/status/1612367123762020360?s=20&t=8Z2r1YorTudCeNzwBA_M5Q |
 | 9 dec 2022    | Ethereum                                        | https://twitter.com/kvofficialx/status/1612348486804209665?s=20&t=C5X4AOcQduTHXLRpIAZgBg |
