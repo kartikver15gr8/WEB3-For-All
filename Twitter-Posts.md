@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 11 dec 2022   | Hyperledger Fabric Network                      | https://twitter.com/kvofficialx/status/1613169153338400772?s=20&t=3mi9jsUuqzyVDZFw0zRhsg | 
 | 10 dec 2022   | Smart Contract Tweet                            | https://twitter.com/kvofficialx/status/1612852858092912640?s=20&t=-FtRlxUateSY8pDIGFM--g | 
 | 10 dec 2022   | Blockchain                                      | https://twitter.com/kvofficialx/status/1612816657059287041?s=20&t=-FtRlxUateSY8pDIGFM--g | 
 | 9 dec 2022    | How to land a Web3 Job                          | https://twitter.com/kvofficialx/status/1612495087937916928?s=20&t=JUbq_kHgy0Jay2UcM5qxVg | 
