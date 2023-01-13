@@ -1,5 +1,8 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 13 dec 2022   | Internal in Solidity                            | https://twitter.com/kvofficialx/status/1613900839462277120?s=20&t=3lX9T2kH94JaULITc9VWrA | 
+| 12 dec 2022   | Alchemy Update                                  | https://twitter.com/kvofficialx/status/1613568172782931968?s=20&t=3lX9T2kH94JaULITc9VWrA |
+| 12 dec 2022   | Try and Catch in Solidity                       | https://twitter.com/kvofficialx/status/1613469391253012481?s=20&t=3lX9T2kH94JaULITc9VWrA | 
 | 11 dec 2022   | Hyperledger Fabric Network                      | https://twitter.com/kvofficialx/status/1613169153338400772?s=20&t=3mi9jsUuqzyVDZFw0zRhsg | 
 | 10 dec 2022   | Smart Contract Tweet                            | https://twitter.com/kvofficialx/status/1612852858092912640?s=20&t=-FtRlxUateSY8pDIGFM--g | 
 | 10 dec 2022   | Blockchain                                      | https://twitter.com/kvofficialx/status/1612816657059287041?s=20&t=-FtRlxUateSY8pDIGFM--g | 
