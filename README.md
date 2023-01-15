@@ -18,6 +18,57 @@
 **Learn about web3 oracles** 
 [Check this out](https://ethereum.org/en/developers/docs/oracles/)
 
+# The Web3 Stack
+- **Layer 1 Blockchains**
+     * Ethereum
+     * Solana
+     * Cosmos
+     * Near
+     * Polkadot
+     * Avalanche
+     * Tezos
+     * Celo
+     * Fantom
+     * Aurora
+- **Layer 2 Blockchains**
+     * ZK Synk
+     * Starknet
+     * Polygon
+     * Artirtum
+     * Optimism
+- **IDEs**
+     * Hardhat
+     * Truffle
+     * Foundry
+     * Brownie
+     * Anchor
+-** File Storages**
+     * IPFS
+     * Arweave
+     * Filecoin
+     * Skynet
+- **Indexing and Querying**
+     * The Graph 
+- **Oracles**
+     * Chainlink
+     * Flux
+- **Off Chain Data Protocols**
+     * Ceramic
+     * Thread DB
+     * Gun
+- **Wallets**
+     * Wallet Connect
+     * Solana Wallet Adapter
+     * Ceramic
+     * Spruce ID
+- **Clients**
+     * Web3.js
+     * Ethers.js
+     * Anchor
+
+![The Web3 Stack](https://user-images.githubusercontent.com/91731654/212559237-e899d530-2fd6-4e89-9aea-3d3935bc325a.png)
+
+
 # Some Awesome Resources⛵
 - [CryptoZombies](https://cryptozombies.io/)
 - [Ethereum](https://ethereum.org/en/)
