@@ -42,7 +42,7 @@
      * Foundry
      * Brownie
      * Anchor
--** File Storages**
+- **File Storages**
      * IPFS
      * Arweave
      * Filecoin
