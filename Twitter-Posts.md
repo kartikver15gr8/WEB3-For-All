@@ -1,5 +1,9 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 15 dec 2022   | The Web3 Stack                                  | https://twitter.com/kvofficialx/status/1614685092911407106?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
+| 14 dec 2022   | Ternary Operators in Solidity                   | https://twitter.com/kvofficialx/status/1614290949076836352?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
+| 14 dec 2022   | Constants and Variables in Solidity             | https://twitter.com/kvofficialx/status/1614182496572407808?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
+| 13 dec 2022   | Pure v/s View in Solidity                       | https://twitter.com/kvofficialx/status/1613953085021487104?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
 | 13 dec 2022   | Internal in Solidity                            | https://twitter.com/kvofficialx/status/1613900839462277120?s=20&t=3lX9T2kH94JaULITc9VWrA | 
 | 12 dec 2022   | Alchemy Update                                  | https://twitter.com/kvofficialx/status/1613568172782931968?s=20&t=3lX9T2kH94JaULITc9VWrA |
 | 12 dec 2022   | Try and Catch in Solidity                       | https://twitter.com/kvofficialx/status/1613469391253012481?s=20&t=3lX9T2kH94JaULITc9VWrA | 
