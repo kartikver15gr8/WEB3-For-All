@@ -82,6 +82,37 @@
 - [Watch Solidity tutorial](https://www.youtube.com/watch?v=EhPeHeoKF88)
 - [Earn Web3 Degree (Alchemy University)](https://university.alchemy.com/)
 
+### HTML
+- [Learn HTML📑](https://t.co/yCLBUYWtEZ)
+- [Learn-html.org](https://t.co/otdbSvURKT)
+- [Mozilla HTML Docs🚀](https://t.co/pemrM2137d)
+- [Web.Dev-HTML](https://t.co/UCgO0lJcSO)
+
+### CSS
+- [Tailwind](https://t.co/or3ftqyI8Z)
+- [Don't Fear The Internet](https://t.co/BVpmFN0QS4)
+- [Internetingishard](https://t.co/fzg1bKJgH1)
+- [Web.dev](https://t.co/SBlqfm8yDJ)
+
+### JavaScript
+- [W3School](https://t.co/k8NJzgKZt1)
+- [LearnJavaScript](https://t.co/usrj5cpuO0)
+- [Mozilla Documentation](https://t.co/AAZyMqcq7I)
+- [LearnJSorg](https://t.co/SsapTeY566)
+
+### React.js
+- [ReactJS.org](https://t.co/fP1yya9izC)
+- [W3School](https://t.co/raFEdt4IfC)
+- [FCC](https://t.co/g0lgp58jKm)
+- [React Tutorials](https://t.co/iEmgcZ3pJU)
+
+### Node.js
+- [NodeJs.Dev](https://t.co/1HHmiTK8v6)
+- [W3School](https://t.co/qZJszne2ry)
+- [Nodejsera](https://t.co/eu0cuuwCgh)
+- [TutorialsTeacher](https://t.co/n76o6FgFfW)
+
+
 # Read Blogs📑
 - [Read on Medium](https://medium.com/@Kartikey_verma)
 - [Read on Hashnode](https://hashnode.com/@KvofficialX)
