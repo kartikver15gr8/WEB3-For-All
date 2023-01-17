@@ -113,9 +113,35 @@
 - [TutorialsTeacher](https://t.co/n76o6FgFfW)
 
 
+> **Once you've acquired above skills and you're comfortable with those skillset, you can start working upon WEB3 fundamentals and learning WEB3 or Blockchain techstack**
+
+### Learn Blockchain Fundamentals📌
+
+Learning blockchain fundamentals is very crucial for building a foundation of this space in your mind. For that, I recommend to read this article which covers almost all the crucial terminologies related to blockchain. [Click Here](https://originstamp.com/blog/67-essential-blockchain-terms-you-should-know/)
+
+> ⚠ **I HIGHLY RECOMMEND TO GIVE YOURSELF A TRY AND CHECK MY BLOGS THAT I'VE WRITTEN, I'VE RESEARCHED A LOT FOR WRITING THOSE BLOGS AND I PUBLISH BLOGS ALMOST EVERY WEEK, SO MAKE SURE TO CHECK THEM OUT!** ✌😎
+
 # Read Blogs📑
 - [Read on Medium](https://medium.com/@Kartikey_verma)
 - [Read on Hashnode](https://hashnode.com/@KvofficialX)
+- [Blog by Vitto Rivabella💜](https://vitto.cc/)
+
+
+> 🛑🛑 **Once you've done with a foundation of what Blockchains are and why WEB3 space is awesome! Its time to get your hands dirty with the skillset that'll make you a Blockchain Developer!!**
+
+
+### Solidity
+
+- [GRΞGORY Tutorial](https://t.co/drhzYJMj1M)
+- [Alchemy University](https://university.alchemy.com/)
+- [Chainshot](https://t.co/Gfld1BSUyu)
+- [CryptoZombie](https://t.co/ZaOTcvEjCR)
+- [Solidity Docs](https://t.co/9qZCPRFIut)
+- [Solidity by Example](https://t.co/hCsdtIBTjF)
+- [32 Hours Tutorial by Patrick Collins FCC](https://t.co/SmlZ8xXOLE)
+
+
+
 
 # Codes👨‍💻
 I've written these codes in solidity. These contracts contain some basic insights about solidity and how we can use it effectively.<br>
