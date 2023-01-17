@@ -70,17 +70,7 @@
 
 
 # Some Awesome Resources⛵
-- [CryptoZombies](https://cryptozombies.io/)
-- [Ethereum](https://ethereum.org/en/)
-- [Solidity by Example](https://solidity-by-example.org/)
-- [Learn Web3](https://learnweb3.io/)
-- [Learn JavaScript in the best way!](https://learnjavascript.online/app.html)
-- [JavaScript 30 Days Challenge](https://javascript30.com/)
-- [JavaScript](https://www.javascript.com/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Watch 32 hours tutorial and Learn Web3](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22635s)
-- [Watch Solidity tutorial](https://www.youtube.com/watch?v=EhPeHeoKF88)
-- [Earn Web3 Degree (Alchemy University)](https://university.alchemy.com/)
+
 
 ### HTML
 - [Learn HTML📑](https://t.co/yCLBUYWtEZ)
@@ -99,6 +89,10 @@
 - [LearnJavaScript](https://t.co/usrj5cpuO0)
 - [Mozilla Documentation](https://t.co/AAZyMqcq7I)
 - [LearnJSorg](https://t.co/SsapTeY566)
+- [JavaScript 30 Days Challenge](https://javascript30.com/)
+- [JavaScript](https://www.javascript.com/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+
 
 ### React.js
 - [ReactJS.org](https://t.co/fP1yya9izC)
@@ -130,7 +124,7 @@ Learning blockchain fundamentals is very crucial for building a foundation of th
 > 🛑🛑 **Once you've done with a foundation of what Blockchains are and why WEB3 space is awesome! Its time to get your hands dirty with the skillset that'll make you a Blockchain Developer!!**
 
 
-### Solidity
+### WEB3-Stack
 
 - [GRΞGORY Tutorial](https://t.co/drhzYJMj1M)
 - [Alchemy University](https://university.alchemy.com/)
@@ -139,6 +133,9 @@ Learning blockchain fundamentals is very crucial for building a foundation of th
 - [Solidity Docs](https://t.co/9qZCPRFIut)
 - [Solidity by Example](https://t.co/hCsdtIBTjF)
 - [32 Hours Tutorial by Patrick Collins FCC](https://t.co/SmlZ8xXOLE)
+- [Ethereum](https://ethereum.org/en/)
+- [Learn Web3](https://learnweb3.io/)
+- [Watch 32 hours tutorial and Learn Web3](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22635s)
 
 
 
