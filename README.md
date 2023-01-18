@@ -112,6 +112,8 @@
 ### Learn Blockchain Fundamentals📌
 
 Learning blockchain fundamentals is very crucial for building a foundation of this space in your mind. For that, I recommend to read this article which covers almost all the crucial terminologies related to blockchain. [Click Here](https://originstamp.com/blog/67-essential-blockchain-terms-you-should-know/)
+<br>
+Also if you love video content then use this YouTube▶ channel [WhiteBoard Crypto](https://www.youtube.com/@WhiteboardCrypto)
 
 > ⚠ **I HIGHLY RECOMMEND TO GIVE YOURSELF A TRY AND CHECK MY BLOGS THAT I'VE WRITTEN, I'VE RESEARCHED A LOT FOR WRITING THOSE BLOGS AND I PUBLISH BLOGS ALMOST EVERY WEEK, SO MAKE SURE TO CHECK THEM OUT!** ✌😎
 
@@ -131,17 +133,17 @@ Learning blockchain fundamentals is very crucial for building a foundation of th
 - [Chainshot](https://t.co/Gfld1BSUyu)
 - [Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
 - [CryptoZombie](https://t.co/ZaOTcvEjCR)
+- [Buildspace](https://buildspace.so/)
 - [Solidity Docs](https://t.co/9qZCPRFIut)
+- [Web3University](https://www.web3.university/)
 - [Solidity by Example](https://t.co/hCsdtIBTjF)
 - [32 Hours Tutorial by Patrick Collins FCC](https://t.co/SmlZ8xXOLE)
 - [Ethereum](https://ethereum.org/en/)
 - [Learn Web3](https://learnweb3.io/)
 - [Odyssey DAO](https://www.odysseydao.com/)
 - [Blocktrain](https://www.blocktrain.info/)
-- [Web3University](https://www.web3.university/)
 - [UseWeb3](https://www.useweb3.xyz/)
 - [QuestBook](https://openquest.xyz/)
-- [Buildspace](https://buildspace.so/)
 
 
 
