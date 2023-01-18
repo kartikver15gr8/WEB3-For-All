@@ -1,5 +1,10 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 18 dec 2o22   | How to set Owner in Solidity                    | https://twitter.com/kvofficialx/status/1615691825901367297?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
+| 17 dec 2022   | Build Through the Bear                          | https://twitter.com/kvofficialx/status/1615400895487041541?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
+| 17 dec 2022   | Crypto Wallets                                  | https://twitter.com/kvofficialx/status/1615322008698617858?s=20&t=3dEKTCELdVOoY5c6FT61Ww |
+| 16 dec 2022   | Surprise post                                   | https://twitter.com/kvofficialx/status/1614973611101806594?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
+| 16 dec 2022   | Web3 Business Model                             | https://twitter.com/kvofficialx/status/1614911180040208385?s=20&t=3dEKTCELdVOoY5c6FT61Ww |
 | 15 dec 2022   | The Web3 Stack                                  | https://twitter.com/kvofficialx/status/1614685092911407106?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
 | 14 dec 2022   | Ternary Operators in Solidity                   | https://twitter.com/kvofficialx/status/1614290949076836352?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
 | 14 dec 2022   | Constants and Variables in Solidity             | https://twitter.com/kvofficialx/status/1614182496572407808?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
