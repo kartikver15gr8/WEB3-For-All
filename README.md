@@ -115,17 +115,22 @@
 
 Learning blockchain fundamentals is very crucial for building a foundation of this space in your mind. For that, I recommend to read this article which covers almost all the crucial terminologies related to blockchain. [Click Here](https://originstamp.com/blog/67-essential-blockchain-terms-you-should-know/)
 <br>
-Also if you love video content then use this YouTube▶ channel [WhiteBoard Crypto](https://www.youtube.com/@WhiteboardCrypto)
+**Also if you love video content then use this YouTube▶ channel [WhiteBoard Crypto](https://www.youtube.com/@WhiteboardCrypto)**
 
-> ⚠ **I HIGHLY RECOMMEND TO GIVE YOURSELF A TRY AND CHECK MY BLOGS THAT I'VE WRITTEN, I'VE RESEARCHED A LOT FOR WRITING THOSE BLOGS AND I PUBLISH BLOGS ALMOST EVERY WEEK, SO MAKE SURE TO CHECK THEM OUT!** ✌😎
+> ⚠ **I HIGHLY RECOMMEND TO GIVE YOURSELF A TRY AND CHECK MY BLOGS THAT I'VE WRITTEN, I'VE RESEARCHED A LOT FOR WRITING THOSE BLOGS AND I PUBLISH BLOGS ALMOST EVERY WEEK, SO MAKE SURE TO CHECK THEM OUT!** ✌😎 
+<br>
+
 
 # Read Blogs📑
 - [Read on Medium](https://medium.com/@Kartikey_verma)
 - [Read on Hashnode](https://hashnode.com/@KvofficialX)
 - [Blog by Vitto Rivabella💜](https://vitto.cc/)
 
+<br>
 
 > 🛑🛑 **Once you've done with a foundation of what Blockchains are and why WEB3 space is awesome! Its time to get your hands dirty with the skillset that'll make you a Blockchain Developer!!**
+
+<br>
 
 
 ### WEB3-Stack
@@ -148,6 +153,7 @@ Also if you love video content then use this YouTube▶ channel [WhiteBoard Cryp
 - [QuestBook](https://openquest.xyz/)
 
 
+<br>
 
 # IDEs Over You Can Build🥌
 ## IDE platforms:
