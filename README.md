@@ -68,6 +68,8 @@
 
 ![The Web3 Stack](https://user-images.githubusercontent.com/91731654/212559237-e899d530-2fd6-4e89-9aea-3d3935bc325a.png)
 
+<br>
+<br>
 
 # Some Awesome Resources⛵
 
