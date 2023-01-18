@@ -129,13 +129,13 @@ Learning blockchain fundamentals is very crucial for building a foundation of th
 - [GRΞGORY Tutorial](https://t.co/drhzYJMj1M)
 - [Alchemy University](https://university.alchemy.com/)
 - [Chainshot](https://t.co/Gfld1BSUyu)
+- [Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
 - [CryptoZombie](https://t.co/ZaOTcvEjCR)
 - [Solidity Docs](https://t.co/9qZCPRFIut)
 - [Solidity by Example](https://t.co/hCsdtIBTjF)
 - [32 Hours Tutorial by Patrick Collins FCC](https://t.co/SmlZ8xXOLE)
 - [Ethereum](https://ethereum.org/en/)
 - [Learn Web3](https://learnweb3.io/)
-- [Watch 32 hours tutorial and Learn Web3](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22635s)
 
 
 
