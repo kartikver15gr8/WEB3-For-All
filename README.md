@@ -136,6 +136,12 @@ Learning blockchain fundamentals is very crucial for building a foundation of th
 - [32 Hours Tutorial by Patrick Collins FCC](https://t.co/SmlZ8xXOLE)
 - [Ethereum](https://ethereum.org/en/)
 - [Learn Web3](https://learnweb3.io/)
+- [Odyssey DAO](https://www.odysseydao.com/)
+- [Blocktrain](https://www.blocktrain.info/)
+- [Web3University](https://www.web3.university/)
+- [UseWeb3](https://www.useweb3.xyz/)
+- [QuestBook](https://openquest.xyz/)
+- [Buildspace](https://buildspace.so/)
 
 
 
