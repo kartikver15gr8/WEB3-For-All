@@ -147,6 +147,52 @@ Also if you love video content then use this YouTube▶ channel [WhiteBoard Cryp
 
 
 
+# IDEs Over You Can Build🥌
+## IDE platforms:
+
+### 1. Remix
+
+[Remix](https://remix.ethereum.org/) is a free and open-source online IDE for developing Solidity on Ethereum or other blockchains that support the EVM. Remix is well-liked since it supports the complete software development lifecycle and enables users to get started quickly.
+
+It's features:
+
+- It solely supports browsers
+- It comes with a nice compiler
+- Server-side components are not found with it
+- You can easily build Ethereum contracts using Solidity with it.
+
+### 2. ETHFiddle
+
+[EthFiddle](https://ethfiddle.com/) is a 2017-released, Loom Network-powered online Solidity IDE. EthFiddle's user-friendly interface makes it easy for programmers to create, test, and debug smart contracts online for free.
+
+It's features:
+
+- It enables users to readily give out Solidity code snippets among their loved ones.
+- It also gives you the opportunity to check out the web for nice code snippets.
+
+
+### 3. Yakindu
+
+[Yakindu](https://marketplace.eclipse.org/content/yakindu-solidity-tools) is a free, Eclipse-based IDE for creating Ethereum and Solidity smart contracts. Yakindu is still used as an open-source IDE and was developed in 2017 by itemis AG. Yakindu offers a wide range of capabilities, including code completion, live validation, code navigation, templates, semantic highlighting, Solidity compiler integration, and much more. Its straightforward user interface is comparable to the Eclipse IDE's, making it recognisable to current users.
+
+It's features:
+
+- Live validation.
+- It offers code completion.
+- Integration of code compiler.
+- Semantic highlighting.
+- Code navigation.
+
+### 4. Embark
+
+[Embark](https://framework.embarklabs.io/) consists of a suite of developer tools on a command line interface (CLI) for building decentralised applications (dApps). Beyond the framework, its developer environment offers a one-stop shop for the decentralised application lifecycle.
+
+It's feature:
+
+- Embark is a framework offers you another option of a software that can be used to create.
+- Test and deploy applications.
+
+
 
 # Codes👨‍💻
 I've written these codes in solidity. These contracts contain some basic insights about solidity and how we can use it effectively.<br>
