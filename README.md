@@ -8,7 +8,7 @@
 <br>
 **Welcome to the this ultimate repository which will turn you into a WEB3 Developer!**
 <br>
-> ⚠️ All the code associated with this repository are written by me, and is intended to help learners to take reference from it and build their own amazing stuffs. Please don't copy paste the exact code if you find yourself in trouble while coding, instead take reference and then build intuition for it and code yourself. I highly support project based learing and suggest everyone to make projects while learning, because that will shine in your resume and also enhance your portfolio😎
+> ⚠️ All the code associated with this repository is written by me, and is intended to help learners to take reference from it and build their own amazing stuffs. Please don't copy paste the exact code if you find yourself in trouble while coding, instead take reference and then build intuition for it and code yourself. I highly support project based learning and suggest everyone to make projects while learning, because that will shine in your resume and also enhance your portfolio😎
 
 # Web3 Oracle:
 <p align="center">
@@ -34,7 +34,7 @@
      * ZK Synk
      * Starknet
      * Polygon
-     * Artirtum
+     * Arbitrum
      * Optimism
 - **IDEs**
      * Hardhat
@@ -128,7 +128,7 @@ Learning blockchain fundamentals is very crucial for building a foundation of th
 
 <br>
 
-> 🛑🛑 **Once you've done with a foundation of what Blockchains are and why WEB3 space is awesome! Its time to get your hands dirty with the skillset that'll make you a Blockchain Developer!!**
+> 🛑🛑 **Once you've done with a foundation of what Blockchains are and why WEB3 space is awesome! It's time to get your hands dirty with the skillset that'll make you a Blockchain Developer!!**
 
 <br>
 
@@ -162,7 +162,7 @@ Learning blockchain fundamentals is very crucial for building a foundation of th
 
 [Remix](https://remix.ethereum.org/) is a free and open-source online IDE for developing Solidity on Ethereum or other blockchains that support the EVM. Remix is well-liked since it supports the complete software development lifecycle and enables users to get started quickly.
 
-It's features:
+Its features:
 
 - It solely supports browsers
 - It comes with a nice compiler
@@ -173,7 +173,7 @@ It's features:
 
 [EthFiddle](https://ethfiddle.com/) is a 2017-released, Loom Network-powered online Solidity IDE. EthFiddle's user-friendly interface makes it easy for programmers to create, test, and debug smart contracts online for free.
 
-It's features:
+Its features:
 
 - It enables users to readily give out Solidity code snippets among their loved ones.
 - It also gives you the opportunity to check out the web for nice code snippets.
@@ -183,7 +183,7 @@ It's features:
 
 [Yakindu](https://marketplace.eclipse.org/content/yakindu-solidity-tools) is a free, Eclipse-based IDE for creating Ethereum and Solidity smart contracts. Yakindu is still used as an open-source IDE and was developed in 2017 by itemis AG. Yakindu offers a wide range of capabilities, including code completion, live validation, code navigation, templates, semantic highlighting, Solidity compiler integration, and much more. Its straightforward user interface is comparable to the Eclipse IDE's, making it recognisable to current users.
 
-It's features:
+Its features:
 
 - Live validation.
 - It offers code completion.
@@ -195,7 +195,7 @@ It's features:
 
 [Embark](https://framework.embarklabs.io/) consists of a suite of developer tools on a command line interface (CLI) for building decentralised applications (dApps). Beyond the framework, its developer environment offers a one-stop shop for the decentralised application lifecycle.
 
-It's feature:
+Its features:
 
 - Embark is a framework offers you another option of a software that can be used to create.
 - Test and deploy applications.
