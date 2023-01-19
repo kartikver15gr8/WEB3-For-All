@@ -1,5 +1,9 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 19 dec 2022   | Project Promotion                               | https://twitter.com/kvofficialx/status/1616060738128449539?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
+| 19 dec 2022   | Create New Contract from Existing one           | https://twitter.com/kvofficialx/status/1616060738128449539?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
+| 19 dec 2022   | Shoutout to Ivan liljeqvist                     | https://twitter.com/kvofficialx/status/1616001938864361477?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
+| 19 dec 2022   | Removing Element from array                     | https://twitter.com/kvofficialx/status/1615996950708654080?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ | 
 | 18 dec 2o22   | How to set Owner in Solidity                    | https://twitter.com/kvofficialx/status/1615691825901367297?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
 | 17 dec 2022   | Build Through the Bear                          | https://twitter.com/kvofficialx/status/1615400895487041541?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
 | 17 dec 2022   | Crypto Wallets                                  | https://twitter.com/kvofficialx/status/1615322008698617858?s=20&t=3dEKTCELdVOoY5c6FT61Ww |
