@@ -237,7 +237,7 @@ Here are a few examples of highly valuable and notable NFTs that have been sold 
 
 - **"Alien"** is a 3D digital artwork by artist Fewocious and it sold for **$69,346 in February 2021.** This NFT is a colorful, abstract representation of an alien, and it is considered one of the most valuable pieces of 3D digital art.
 
-- "Everydays: The First 5000 Days" a digital artwork by Mike Winkelmann also known as Beeple, sold for $69 million.
+- "Everydays: The First 5000 Days" a digital artwork by Mike Winkelmann also known as Beeple, sold for **$69 million.**
 
 **These are just a few examples, but there are many other highly valuable and notable NFTs that have been sold in the recent years. As the market for NFTs continues to grow and evolve, we can expect to see more high-value sales in the future.**
 
