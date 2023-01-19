@@ -227,15 +227,15 @@ One of the downsides of NFTs is that they are not widely understood by the gener
   
 Here are a few examples of highly valuable and notable NFTs that have been sold in recent years:
 
-- "Everydays: The First 5000 Days" by digital artist Mike Winkelmann, also known as Beeple, sold for $69 million at Christie's auction house in March 2021. This NFT is a collage of Beeple's digital artworks created over 13 years, and it is considered one of the most valuable digital artworks ever sold.
+- **"Everydays: The First 5000 Days"** by digital artist Mike Winkelmann, also known as Beeple, sold for **$69 million at Christie's auction house in March 2021**. This NFT is a collage of Beeple's digital artworks created over **13 years**, and it is considered one of the most valuable digital artworks ever sold.
 
-- "CryptoPunk #7804" is a digital collectible of a unique pixel art character and it sold for $7.5 million in March 2021. It's one of 10,000 unique characters created by Larva Labs.
+- **"CryptoPunk #7804"** is a digital collectible of a unique pixel art character and it sold for $7.5 million in March 2021. It's one of 10,000 unique characters created by Larva Labs.
 
-- "The Last Few" by artist Mad Dog Jones sold for $411,000 in February 2021. This NFT is a 3D-animated short film that depicts a post-apocalyptic world and it is considered to be one of the most valuable pieces of 3D-animated digital art.
+- **"The Last Few"** by artist Mad Dog Jones sold for** $411,000** in February 2021. This NFT is a 3D-animated short film that depicts a post-apocalyptic world and it is considered to be one of the most valuable pieces of 3D-animated digital art.
 
-- "The First 5000 Days" is another digital artwork by Mike Winkelmann, also known as Beeple, sold at a Christie's auction for $69.3 Million in March 2021.
+- **"The First 5000 Days**" is another digital artwork by Mike Winkelmann, also known as Beeple, sold at a Christie's auction for **$69.3 Million** in March 2021.
 
-- "Alien" is a 3D digital artwork by artist Fewocious and it sold for $69,346 in February 2021. This NFT is a colorful, abstract representation of an alien, and it is considered one of the most valuable pieces of 3D digital art.
+- **"Alien"** is a 3D digital artwork by artist Fewocious and it sold for **$69,346 in February 2021.** This NFT is a colorful, abstract representation of an alien, and it is considered one of the most valuable pieces of 3D digital art.
 
 - "Everydays: The First 5000 Days" a digital artwork by Mike Winkelmann also known as Beeple, sold for $69 million.
 
