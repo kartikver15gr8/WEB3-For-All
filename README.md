@@ -206,6 +206,24 @@ It's feature:
 I've written these codes in solidity. These contracts contain some basic insights about solidity and how we can use it effectively.<br>
 [Solidity Codes](https://github.com/kartikver15gr8/Learn-Solidity-with-me)
 
+
+# Learn About NFTs! ❄ (Optional)
+
+<p align="center">
+  <img width="860" height="500" src="https://user-images.githubusercontent.com/91731654/213388997-76a88036-2a5f-4847-bdd7-a172a8c4ae44.jpg">
+
+> **NFTs, or non-fungible tokens, are a type of digital asset that represent ownership of a unique item or piece of content, such as a digital art piece or collectible.** They are built on blockchain technology, which allows for secure and transparent tracking of ownership and transfers.
+
+_One of the key features of NFTs is their non-fungibility, which means that they cannot be exchanged for an identical item. This is in contrast to fungible assets, such as cryptocurrencies, which are interchangeable._
+
+NFTs have been gaining popularity in recent years, particularly in the digital art space. Artists and creators can use NFTs to monetize their work by selling unique digital assets directly to collectors. Additionally, NFTs can also be used for things like virtual real estate, in-game items, and more.
+
+One of the benefits of NFTs is that they provide a way for digital creators to prove ownership and control of their work. This can help to prevent plagiarism and copyright infringement, and also allows for the digital art market to grow and be more profitable for the artists.
+
+One of the downsides of NFTs is that they are not widely understood by the general public yet, and the technology is still relatively new. Additionally, the environmental impact of the blockchain technology used for NFTs is a concern that is currently being studied.
+
+Overall, NFTs have the potential to revolutionize the way we think about digital ownership and monetization. As the technology and understanding of NFTs continue to evolve, we may see more use cases and mainstream adoption in the near future.
+
 # Active Blockchains⛓🌐
 
 - [Aeternity](https://aeternity.com/)
