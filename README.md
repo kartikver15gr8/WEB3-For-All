@@ -101,6 +101,8 @@
 - [W3School](https://t.co/raFEdt4IfC)
 - [FCC](https://t.co/g0lgp58jKm)
 - [React Tutorials](https://t.co/iEmgcZ3pJU)
+- [React Video Tutorial by FCC](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
+- [React Video Tutorial by FCC 2](https://www.youtube.com/watch?v=bMknfKXIFA8)
 
 ### Node.js
 - [NodeJs.Dev](https://t.co/1HHmiTK8v6)
