@@ -1,5 +1,8 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 21 dec 2022   | Crypto Rollups                                  | https://twitter.com/kvofficialx/status/1616780873374003203?s=20&t=S2l0kaxcBUl-gnANmNiGMw | 
+| 20 dec 2022   | Structs in Solidity                             | https://twitter.com/kvofficialx/status/1616506855781732354?s=20&t=S2l0kaxcBUl-gnANmNiGMw | 
+| 20 dec 2022   | Iterable Mappings                               | https://twitter.com/kvofficialx/status/1616444914912628745?s=20&t=S2l0kaxcBUl-gnANmNiGMw |
 | 19 dec 2022   | Project Promotion                               | https://twitter.com/kvofficialx/status/1616060738128449539?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
 | 19 dec 2022   | Create New Contract from Existing one           | https://twitter.com/kvofficialx/status/1616060738128449539?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
 | 19 dec 2022   | Shoutout to Ivan liljeqvist                     | https://twitter.com/kvofficialx/status/1616001938864361477?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
