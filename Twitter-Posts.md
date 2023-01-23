@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 23 dec 2022   | Some Tips for being a Good Developer!           | https://twitter.com/kvofficialx/status/1617509043274387456?s=20&t=yTkxdJoKhn7OgQ2RZPomsw | 
 | 22 dec 2022   | A Brief Intro of Blockchain                     | https://twitter.com/kvofficialx/status/1617509043274387456?s=20&t=ihJOPHMLZ0pwCprOFVinTw | 
 | 21 dec 2022   | Crypto Rollups                                  | https://twitter.com/kvofficialx/status/1616780873374003203?s=20&t=S2l0kaxcBUl-gnANmNiGMw | 
 | 20 dec 2022   | Structs in Solidity                             | https://twitter.com/kvofficialx/status/1616506855781732354?s=20&t=S2l0kaxcBUl-gnANmNiGMw | 
