@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 24 dec 2022   | EthforAll Hackathon                             | https://twitter.com/kvofficialx/status/1617832094033645569?s=20&t=7QOiGWhhYNPdiZTMU0wWSg | 
+| 24 dec 2022   | Alchemy University Space                        | https://twitter.com/kvofficialx/status/1617818078016049152?s=20&t=7QOiGWhhYNPdiZTMU0wWSg |
 | 23 dec 2022   | Some Tips for being a Good Developer!           | https://twitter.com/kvofficialx/status/1617509043274387456?s=20&t=yTkxdJoKhn7OgQ2RZPomsw | 
 | 22 dec 2022   | A Brief Intro of Blockchain                     | https://twitter.com/kvofficialx/status/1617509043274387456?s=20&t=ihJOPHMLZ0pwCprOFVinTw | 
 | 21 dec 2022   | Crypto Rollups                                  | https://twitter.com/kvofficialx/status/1616780873374003203?s=20&t=S2l0kaxcBUl-gnANmNiGMw | 
