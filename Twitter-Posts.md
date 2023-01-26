@@ -1,40 +1,42 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
-| 24 dec 2022   | EthforAll Hackathon                             | https://twitter.com/kvofficialx/status/1617832094033645569?s=20&t=7QOiGWhhYNPdiZTMU0wWSg | 
-| 24 dec 2022   | Alchemy University Space                        | https://twitter.com/kvofficialx/status/1617818078016049152?s=20&t=7QOiGWhhYNPdiZTMU0wWSg |
-| 23 dec 2022   | Some Tips for being a Good Developer!           | https://twitter.com/kvofficialx/status/1617509043274387456?s=20&t=yTkxdJoKhn7OgQ2RZPomsw | 
-| 22 dec 2022   | A Brief Intro of Blockchain                     | https://twitter.com/kvofficialx/status/1617509043274387456?s=20&t=ihJOPHMLZ0pwCprOFVinTw | 
-| 21 dec 2022   | Crypto Rollups                                  | https://twitter.com/kvofficialx/status/1616780873374003203?s=20&t=S2l0kaxcBUl-gnANmNiGMw | 
-| 20 dec 2022   | Structs in Solidity                             | https://twitter.com/kvofficialx/status/1616506855781732354?s=20&t=S2l0kaxcBUl-gnANmNiGMw | 
-| 20 dec 2022   | Iterable Mappings                               | https://twitter.com/kvofficialx/status/1616444914912628745?s=20&t=S2l0kaxcBUl-gnANmNiGMw |
-| 19 dec 2022   | Project Promotion                               | https://twitter.com/kvofficialx/status/1616060738128449539?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
-| 19 dec 2022   | Create New Contract from Existing one           | https://twitter.com/kvofficialx/status/1616060738128449539?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
-| 19 dec 2022   | Shoutout to Ivan liljeqvist                     | https://twitter.com/kvofficialx/status/1616001938864361477?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
-| 19 dec 2022   | Removing Element from array                     | https://twitter.com/kvofficialx/status/1615996950708654080?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ | 
-| 18 dec 2o22   | How to set Owner in Solidity                    | https://twitter.com/kvofficialx/status/1615691825901367297?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
-| 17 dec 2022   | Build Through the Bear                          | https://twitter.com/kvofficialx/status/1615400895487041541?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
-| 17 dec 2022   | Crypto Wallets                                  | https://twitter.com/kvofficialx/status/1615322008698617858?s=20&t=3dEKTCELdVOoY5c6FT61Ww |
-| 16 dec 2022   | Surprise post                                   | https://twitter.com/kvofficialx/status/1614973611101806594?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
-| 16 dec 2022   | Web3 Business Model                             | https://twitter.com/kvofficialx/status/1614911180040208385?s=20&t=3dEKTCELdVOoY5c6FT61Ww |
-| 15 dec 2022   | The Web3 Stack                                  | https://twitter.com/kvofficialx/status/1614685092911407106?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
-| 14 dec 2022   | Ternary Operators in Solidity                   | https://twitter.com/kvofficialx/status/1614290949076836352?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
-| 14 dec 2022   | Constants and Variables in Solidity             | https://twitter.com/kvofficialx/status/1614182496572407808?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
-| 13 dec 2022   | Pure v/s View in Solidity                       | https://twitter.com/kvofficialx/status/1613953085021487104?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
-| 13 dec 2022   | Internal in Solidity                            | https://twitter.com/kvofficialx/status/1613900839462277120?s=20&t=3lX9T2kH94JaULITc9VWrA | 
-| 12 dec 2022   | Alchemy Update                                  | https://twitter.com/kvofficialx/status/1613568172782931968?s=20&t=3lX9T2kH94JaULITc9VWrA |
-| 12 dec 2022   | Try and Catch in Solidity                       | https://twitter.com/kvofficialx/status/1613469391253012481?s=20&t=3lX9T2kH94JaULITc9VWrA | 
-| 11 dec 2022   | Hyperledger Fabric Network                      | https://twitter.com/kvofficialx/status/1613169153338400772?s=20&t=3mi9jsUuqzyVDZFw0zRhsg | 
-| 10 dec 2022   | Smart Contract Tweet                            | https://twitter.com/kvofficialx/status/1612852858092912640?s=20&t=-FtRlxUateSY8pDIGFM--g | 
-| 10 dec 2022   | Blockchain                                      | https://twitter.com/kvofficialx/status/1612816657059287041?s=20&t=-FtRlxUateSY8pDIGFM--g | 
-| 9 dec 2022    | How to land a Web3 Job                          | https://twitter.com/kvofficialx/status/1612495087937916928?s=20&t=JUbq_kHgy0Jay2UcM5qxVg | 
-| 9 dec 2022    | EVM storing places                              | https://twitter.com/kvofficialx/status/1612367123762020360?s=20&t=8Z2r1YorTudCeNzwBA_M5Q |
-| 9 dec 2022    | Ethereum                                        | https://twitter.com/kvofficialx/status/1612348486804209665?s=20&t=C5X4AOcQduTHXLRpIAZgBg |
-| 8 dec 2022    | Francesco live stream (Alchemy University)      | https://twitter.com/kvofficialx/status/1612090176460951553?s=20&t=C5X4AOcQduTHXLRpIAZgBg |
-| 7 dec 2022    | Sharding in Blockchain                          | https://twitter.com/kvofficialx/status/1611658615823413258?s=20&t=C5X4AOcQduTHXLRpIAZgBg | 
-| 6 dec 2022    | Alchemy Townhall for Technical Writers          | https://twitter.com/kvofficialx/status/1611378986600497156?s=20&t=C5X4AOcQduTHXLRpIAZgBg |
-| 3 dec 2022    | Alchemy university                              | https://twitter.com/kvofficialx/status/1610266244510547968?s=20&t=-gkYQgHBF-co3RYrQytLxw |
-| 2 dec 2022    | Crypto Phishing                                 | https://twitter.com/kvofficialx/status/1609888471593943040?s=20&t=IYw8IC2TaSCkmOmgXwYWsQ |
-| 1 dec 2022    | Best Resources to learn Full Stack Dev          | https://twitter.com/kvofficialx/status/1609510968845033474?s=20&t=IYw8IC2TaSCkmOmgXwYWsQ | 
+| 25 jan 2022   | Jobs in Crypto                                  | https://twitter.com/kvofficialx/status/1618169689020203008?s=20&t=HBRU0wPr9nUVKcYyDjnTKg |
+| 25 jan 2022   | CryptoZombies Shoutout!                         | https://twitter.com/kvofficialx/status/1618263701806776321?s=20&t=HBRU0wPr9nUVKcYyDjnTKg |
+| 24 jan 2022   | EthforAll Hackathon                             | https://twitter.com/kvofficialx/status/1617832094033645569?s=20&t=7QOiGWhhYNPdiZTMU0wWSg | 
+| 24 jan 2022   | Alchemy University Space                        | https://twitter.com/kvofficialx/status/1617818078016049152?s=20&t=7QOiGWhhYNPdiZTMU0wWSg |
+| 23 jan 2022   | Some Tips for being a Good Developer!           | https://twitter.com/kvofficialx/status/1617509043274387456?s=20&t=yTkxdJoKhn7OgQ2RZPomsw | 
+| 22 jan 2022   | A Brief Intro of Blockchain                     | https://twitter.com/kvofficialx/status/1617509043274387456?s=20&t=ihJOPHMLZ0pwCprOFVinTw | 
+| 21 jan 2022   | Crypto Rollups                                  | https://twitter.com/kvofficialx/status/1616780873374003203?s=20&t=S2l0kaxcBUl-gnANmNiGMw | 
+| 20 jan 2022   | Structs in Solidity                             | https://twitter.com/kvofficialx/status/1616506855781732354?s=20&t=S2l0kaxcBUl-gnANmNiGMw | 
+| 20 jan 2022   | Iterable Mappings                               | https://twitter.com/kvofficialx/status/1616444914912628745?s=20&t=S2l0kaxcBUl-gnANmNiGMw |
+| 19 jan 2022   | Project Promotion                               | https://twitter.com/kvofficialx/status/1616060738128449539?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
+| 19 jan 2022   | Create New Contract from Existing one           | https://twitter.com/kvofficialx/status/1616060738128449539?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
+| 19 jan 2022   | Shoutout to Ivan liljeqvist                     | https://twitter.com/kvofficialx/status/1616001938864361477?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
+| 19 jan 2022   | Removing Element from array                     | https://twitter.com/kvofficialx/status/1615996950708654080?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ | 
+| 18 jan 2o22   | How to set Owner in Solidity                    | https://twitter.com/kvofficialx/status/1615691825901367297?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
+| 17 jan 2022   | Build Through the Bear                          | https://twitter.com/kvofficialx/status/1615400895487041541?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
+| 17 jan 2022   | Crypto Wallets                                  | https://twitter.com/kvofficialx/status/1615322008698617858?s=20&t=3dEKTCELdVOoY5c6FT61Ww |
+| 16 jan 2022   | Surprise post                                   | https://twitter.com/kvofficialx/status/1614973611101806594?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
+| 16 jan 2022   | Web3 Business Model                             | https://twitter.com/kvofficialx/status/1614911180040208385?s=20&t=3dEKTCELdVOoY5c6FT61Ww |
+| 15 jan 2022   | The Web3 Stack                                  | https://twitter.com/kvofficialx/status/1614685092911407106?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
+| 14 jan 2022   | Ternary Operators in Solidity                   | https://twitter.com/kvofficialx/status/1614290949076836352?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
+| 14 jan 2022   | Constants and Variables in Solidity             | https://twitter.com/kvofficialx/status/1614182496572407808?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
+| 13 jan 2022   | Pure v/s View in Solidity                       | https://twitter.com/kvofficialx/status/1613953085021487104?s=20&t=mpFvexDnQG6JSZn9-AfmvQ | 
+| 13 jan 2022   | Internal in Solidity                            | https://twitter.com/kvofficialx/status/1613900839462277120?s=20&t=3lX9T2kH94JaULITc9VWrA | 
+| 12 jan 2022   | Alchemy Update                                  | https://twitter.com/kvofficialx/status/1613568172782931968?s=20&t=3lX9T2kH94JaULITc9VWrA |
+| 12 jan 2022   | Try and Catch in Solidity                       | https://twitter.com/kvofficialx/status/1613469391253012481?s=20&t=3lX9T2kH94JaULITc9VWrA | 
+| 11 jan 2022   | Hyperledger Fabric Network                      | https://twitter.com/kvofficialx/status/1613169153338400772?s=20&t=3mi9jsUuqzyVDZFw0zRhsg | 
+| 10 jan 2022   | Smart Contract Tweet                            | https://twitter.com/kvofficialx/status/1612852858092912640?s=20&t=-FtRlxUateSY8pDIGFM--g | 
+| 10 jan 2022   | Blockchain                                      | https://twitter.com/kvofficialx/status/1612816657059287041?s=20&t=-FtRlxUateSY8pDIGFM--g | 
+| 9 jan 2022    | How to land a Web3 Job                          | https://twitter.com/kvofficialx/status/1612495087937916928?s=20&t=JUbq_kHgy0Jay2UcM5qxVg | 
+| 9 jan 2022    | EVM storing places                              | https://twitter.com/kvofficialx/status/1612367123762020360?s=20&t=8Z2r1YorTudCeNzwBA_M5Q |
+| 9 jan 2022    | Ethereum                                        | https://twitter.com/kvofficialx/status/1612348486804209665?s=20&t=C5X4AOcQduTHXLRpIAZgBg |
+| 8 jan 2022    | Francesco live stream (Alchemy University)      | https://twitter.com/kvofficialx/status/1612090176460951553?s=20&t=C5X4AOcQduTHXLRpIAZgBg |
+| 7 jan 2022    | Sharding in Blockchain                          | https://twitter.com/kvofficialx/status/1611658615823413258?s=20&t=C5X4AOcQduTHXLRpIAZgBg | 
+| 6 jan 2022    | Alchemy Townhall for Technical Writers          | https://twitter.com/kvofficialx/status/1611378986600497156?s=20&t=C5X4AOcQduTHXLRpIAZgBg |
+| 3 jan 2022    | Alchemy university                              | https://twitter.com/kvofficialx/status/1610266244510547968?s=20&t=-gkYQgHBF-co3RYrQytLxw |
+| 2 jan 2022    | Crypto Phishing                                 | https://twitter.com/kvofficialx/status/1609888471593943040?s=20&t=IYw8IC2TaSCkmOmgXwYWsQ |
+| 1 jan 2022    | Best Resources to learn Full Stack Dev          | https://twitter.com/kvofficialx/status/1609510968845033474?s=20&t=IYw8IC2TaSCkmOmgXwYWsQ | 
 | 30 dec 2022   | Polygon Space                                   | https://twitter.com/kvofficialx/status/1608826459820552194?s=20&t=fRqmuVfGFe_Bpr4YohQgkg |
 | 30 dec 2022   | Genesis Block                                   | https://twitter.com/kvofficialx/status/1608786597218246656?s=20&t=fRqmuVfGFe_Bpr4YohQgkg | 
 | 30 dec 2022   | Merkle Trees and Merkle Roots                   | https://twitter.com/kvofficialx/status/1608725685450964998?s=20&t=qM23TcGHLY6r2PFjly4VdQ | 
