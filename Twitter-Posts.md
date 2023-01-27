@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 27 jan 2022   | Advantages of DeFi                              | https://twitter.com/kvofficialx/status/1618979942569754625?s=20&t=o8xtcz0Y8J0-NpxCGda8nQ | 
+| 27 jan 2022   | DAOs                                            | https://twitter.com/kvofficialx/status/1618895291108712448?s=20&t=o8xtcz0Y8J0-NpxCGda8nQ |
 | 25 jan 2022   | Jobs in Crypto                                  | https://twitter.com/kvofficialx/status/1618169689020203008?s=20&t=HBRU0wPr9nUVKcYyDjnTKg |
 | 25 jan 2022   | CryptoZombies Shoutout!                         | https://twitter.com/kvofficialx/status/1618263701806776321?s=20&t=HBRU0wPr9nUVKcYyDjnTKg |
 | 24 jan 2022   | EthforAll Hackathon                             | https://twitter.com/kvofficialx/status/1617832094033645569?s=20&t=7QOiGWhhYNPdiZTMU0wWSg | 
