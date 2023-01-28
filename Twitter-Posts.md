@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 28 jan 2022   | Twitter Space 🚀🚀                             | https://twitter.com/kvofficialx/status/1619035177807908865?s=20&t=8DSZnlcE2JRyQCiJ_YEv_g |
+| 27 jan 2022   | Alchemy Stream for WEB3 Roadmap                 | https://twitter.com/kvofficialx/status/1619009727958249472?s=20&t=8DSZnlcE2JRyQCiJ_YEv_g |
 | 27 jan 2022   | Advantages of DeFi                              | https://twitter.com/kvofficialx/status/1618979942569754625?s=20&t=o8xtcz0Y8J0-NpxCGda8nQ | 
 | 27 jan 2022   | DAOs                                            | https://twitter.com/kvofficialx/status/1618895291108712448?s=20&t=o8xtcz0Y8J0-NpxCGda8nQ |
 | 25 jan 2022   | Jobs in Crypto                                  | https://twitter.com/kvofficialx/status/1618169689020203008?s=20&t=HBRU0wPr9nUVKcYyDjnTKg |
