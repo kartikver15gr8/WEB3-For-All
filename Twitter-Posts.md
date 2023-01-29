@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 29 jan 2022   | Applications of Distributed Ledgers             | https://twitter.com/kvofficialx/status/1619655773516341248?s=20&t=bd-ItmA3elrSUkVdfgXyfg |
 | 28 jan 2022   | Twitter Space 🚀🚀                             | https://twitter.com/kvofficialx/status/1619035177807908865?s=20&t=8DSZnlcE2JRyQCiJ_YEv_g |
 | 27 jan 2022   | Alchemy Stream for WEB3 Roadmap                 | https://twitter.com/kvofficialx/status/1619009727958249472?s=20&t=8DSZnlcE2JRyQCiJ_YEv_g |
 | 27 jan 2022   | Advantages of DeFi                              | https://twitter.com/kvofficialx/status/1618979942569754625?s=20&t=o8xtcz0Y8J0-NpxCGda8nQ | 
