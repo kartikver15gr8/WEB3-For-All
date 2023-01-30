@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 30 jan 2022   | Public speaking on Opensource                   | https://twitter.com/kvofficialx/status/1620101191949778945?s=20&t=yOclPM8X1G-FDag_FN-FIQ |
+| 30 jan 2022   | Smart Contracts                                 | https://twitter.com/kvofficialx/status/1619959318295760896?s=20&t=yOclPM8X1G-FDag_FN-FIQ |
 | 29 jan 2022   | Blockchain is not only about Crypto😊😄        | https://twitter.com/kvofficialx/status/1619723448359714817?s=20&t=ea-k-nvspJ3viEaWFTBkWA |
 | 29 jan 2022   | Applications of Distributed Ledgers             | https://twitter.com/kvofficialx/status/1619655773516341248?s=20&t=bd-ItmA3elrSUkVdfgXyfg |
 | 28 jan 2022   | Twitter Space 🚀🚀                             | https://twitter.com/kvofficialx/status/1619035177807908865?s=20&t=8DSZnlcE2JRyQCiJ_YEv_g |
