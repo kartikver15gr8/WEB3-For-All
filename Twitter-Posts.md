@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 29 jan 2022   | Blockchain is not only about Crypto😊😄        | https://twitter.com/kvofficialx/status/1619723448359714817?s=20&t=ea-k-nvspJ3viEaWFTBkWA |
 | 29 jan 2022   | Applications of Distributed Ledgers             | https://twitter.com/kvofficialx/status/1619655773516341248?s=20&t=bd-ItmA3elrSUkVdfgXyfg |
 | 28 jan 2022   | Twitter Space 🚀🚀                             | https://twitter.com/kvofficialx/status/1619035177807908865?s=20&t=8DSZnlcE2JRyQCiJ_YEv_g |
 | 27 jan 2022   | Alchemy Stream for WEB3 Roadmap                 | https://twitter.com/kvofficialx/status/1619009727958249472?s=20&t=8DSZnlcE2JRyQCiJ_YEv_g |
