@@ -8,7 +8,7 @@
 <br>
 **Welcome to the this ultimate repository which will turn you into a WEB3 Developer!**
 <br>
-> ⚠️ All the code associated with this repository is written by me, and is intended to help learners to take reference from it and build their own amazing stuffs. Please don't copy paste the exact code if you find yourself in trouble while coding, instead take reference and then build intuition for it and code yourself. I highly support project based learning and suggest everyone to make projects while learning, because that will shine in your resume and also enhance your portfolio😎
+> ⚠️ All the code associated with this repository is written by me, and is intended to help learners to take reference from it and build their own amazing stuffs. Please don't copy paste the exact code if you find yourself in trouble while coding, instead take reference and then build intuition for it and code yourself. I highly support project based learning and suggest everyone to make projects while learning, because that will shine in your resume and also enhance your portfolio!
 
 # Web3 Oracle:
 <p align="center">
