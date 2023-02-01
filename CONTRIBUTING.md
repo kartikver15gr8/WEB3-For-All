@@ -1,6 +1,6 @@
 # How To Contribute?
 
-Guidelines for contributing to this repo!
+Guidelines for contributing to this repository!
 
 - Find an issue which you want to resolve. You can find issues from the issues tab associated with the repos!
 
