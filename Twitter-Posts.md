@@ -1,5 +1,9 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 1 feb 2022    | Created my first dApp on my local machine       | https://twitter.com/kvofficialx/status/1620812548697382914?s=20&t=P07yOlaqWg_szQu1GEBTuQ |
+| 1 feb 2022    | Gas                                             | https://twitter.com/kvofficialx/status/1620784799135956992?s=20&t=P07yOlaqWg_szQu1GEBTuQ |
+| 1 feb 2022    | "indexed" in Solidity                           | https://twitter.com/kvofficialx/status/1620696770073481216?s=20&t=P07yOlaqWg_szQu1GEBTuQ |
+| 1 feb 2022    | NFTs pros                                       | https://twitter.com/kvofficialx/status/1620680057319718917?s=20&t=P07yOlaqWg_szQu1GEBTuQ |
 | 30 jan 2022   | Public speaking on Opensource                   | https://twitter.com/kvofficialx/status/1620101191949778945?s=20&t=yOclPM8X1G-FDag_FN-FIQ |
 | 30 jan 2022   | Smart Contracts                                 | https://twitter.com/kvofficialx/status/1619959318295760896?s=20&t=yOclPM8X1G-FDag_FN-FIQ |
 | 29 jan 2022   | Blockchain is not only about Crypto😊😄        | https://twitter.com/kvofficialx/status/1619723448359714817?s=20&t=ea-k-nvspJ3viEaWFTBkWA |
