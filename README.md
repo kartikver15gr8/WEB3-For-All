@@ -18,6 +18,11 @@
 **Learn about web3 oracles** 
 [Check this out](https://ethereum.org/en/developers/docs/oracles/)
 
+
+# Testnet Faucets🌐
+Main Faucet: https://faucets.chain.link <br>
+Backup Faucet: https://goerlifaucet.com/
+
 # The Web3 Stack
 - **Layer 1 Blockchains**
      * Ethereum
