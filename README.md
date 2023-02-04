@@ -99,6 +99,9 @@ Backup Faucet: https://goerlifaucet.com/
 - [JavaScript 30 Days Challenge](https://javascript30.com/)
 - [JavaScript](https://www.javascript.com/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [Clever Programmer](https://www.cleverprogrammer.com/js-tutorial)
+- [FCC1](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=380s)
+- [FCC2](https://www.youtube.com/watch?v=jS4aFq5-91M&t=1s)
 
 
 ### React.js
