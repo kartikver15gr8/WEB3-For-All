@@ -40,6 +40,6 @@ git add insert-paths-of-changed-files-here
 
 13. Congratulations! Celebrate your success after your pull request is merged!💜😁🚀
 
-#💥 Issues
+# 💥 Issues
 
 **If you need any help, you can ask questions on our **discussions** tab.**
