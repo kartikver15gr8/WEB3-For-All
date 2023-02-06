@@ -1,5 +1,7 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 6 feb 2022    | Some Awesome Features of Remix IDE              | https://twitter.com/kvofficialx/status/1622615603877150725?s=20&t=wZ3OgfTwop0-lRhHYy21FA | 
+| 6 feb 2022    | Why we have "Address" datatype in Solidity      | https://twitter.com/kvofficialx/status/1622506325862395904?s=20&t=wZ3OgfTwop0-lRhHYy21FA |
 | 3 feb 2022    | Opensource                                      | https://twitter.com/kvofficialx/status/1621576769534046208?s=20&t=ckLaLbnjueOwC4A3iSydzA |
 | 3 feb 2022    | I wish it were real ETHs                        | https://twitter.com/kvofficialx/status/1621567342030512129?s=20&t=ZnPQ-0ku23VFjpJKtE1vdg |
 | 3 feb 2022    | Retweet of WEB3 repo                            | https://twitter.com/kvofficialx/status/1621500654597578753?s=20&t=tCKAn_dpaN1Rc6Clf5igYA | 
