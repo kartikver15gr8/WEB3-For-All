@@ -1,5 +1,6 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 10 feb 2022   | Mining Block Explained                          | https://twitter.com/kvofficialx/status/1623985150228037632?s=20&t=q9kD5n1lbAX7jDDabpgmLg | 
 | 6 feb 2022    | Opensource Streak is about to get broken        | https://twitter.com/kvofficialx/status/1622653326813970432?s=20&t=Q7Dsz0snsInGojc6FxR-ig |
 | 6 feb 2022    | Some Awesome Features of Remix IDE              | https://twitter.com/kvofficialx/status/1622615603877150725?s=20&t=wZ3OgfTwop0-lRhHYy21FA | 
 | 6 feb 2022    | Why we have "Address" datatype in Solidity      | https://twitter.com/kvofficialx/status/1622506325862395904?s=20&t=wZ3OgfTwop0-lRhHYy21FA |
