@@ -2,7 +2,7 @@
 
  <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
-## Roadmap to deep dive inot Blockchain
+## Roadmap to deep dive into Blockchain
 **Its not surprising to see the growth in blockchain or Web3 space.** It offers so many features those were not in the earlier webs (web1.0 and web2.0), Indeed, Blockchain is one of the top emerging technology domains in the present scenario of **Tech industry**. And as a result we have massive demand for blockchain developers. So don't u think this is the right time to deep dive into this field.
 
 If yes then you're on the right place😎🚀 This blog is written by an intension to provide all the crucial details that are required for folks to deep dive into this industry, so without further delay let's get in!!
