@@ -235,6 +235,8 @@ One of the downsides of NFTs is that they are not widely understood by the gener
 <p align="center">
   <img width="860" height="500" src="https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fca376989-ffeb-4b35-bfce-18034c92b67c.jpg?fit=scale-down&source=next&width=700">
   
+<br>
+  
 Here are a few examples of highly valuable and notable NFTs that have been sold in recent years:
 
 - **"Everydays: The First 5000 Days"** by digital artist Mike Winkelmann, also known as Beeple, sold for **$69 million at Christie's auction house in March 2021**. This NFT is a collage of Beeple's digital artworks created over **13 years**, and it is considered one of the most valuable digital artworks ever sold.
@@ -252,6 +254,9 @@ Here are a few examples of highly valuable and notable NFTs that have been sold 
 **These are just a few examples, but there are many other highly valuable and notable NFTs that have been sold in the recent years. As the market for NFTs continues to grow and evolve, we can expect to see more high-value sales in the future.**
 
 > ❄❄ Overall, NFTs have the potential to revolutionize the way we think about digital ownership and monetization. As the technology and understanding of NFTs continue to evolve, we may see more use cases and mainstream adoption in the near future.✌✌
+
+
+
 
 # Active Blockchains⛓🌐
 
