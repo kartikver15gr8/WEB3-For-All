@@ -37,7 +37,7 @@
 | 19 jan 2023   | Create New Contract from Existing one           | https://twitter.com/kvofficialx/status/1616060738128449539?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
 | 19 jan 2023   | Shoutout to Ivan liljeqvist                     | https://twitter.com/kvofficialx/status/1616001938864361477?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ |
 | 19 jan 2023   | Removing Element from array                     | https://twitter.com/kvofficialx/status/1615996950708654080?s=20&t=_0Zqz8Q8xMC-sqeS9ouCGQ | 
-| 18 jan 2o23   | How to set Owner in Solidity                    | https://twitter.com/kvofficialx/status/1615691825901367297?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
+| 18 jan 2023   | How to set Owner in Solidity                    | https://twitter.com/kvofficialx/status/1615691825901367297?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
 | 17 jan 2023   | Build Through the Bear                          | https://twitter.com/kvofficialx/status/1615400895487041541?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
 | 17 jan 2023   | Crypto Wallets                                  | https://twitter.com/kvofficialx/status/1615322008698617858?s=20&t=3dEKTCELdVOoY5c6FT61Ww |
 | 16 jan 2023   | Surprise post                                   | https://twitter.com/kvofficialx/status/1614973611101806594?s=20&t=3dEKTCELdVOoY5c6FT61Ww | 
