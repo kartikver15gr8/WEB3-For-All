@@ -1,4 +1,4 @@
-# Rollups in Blockchain as a Scaling Solution!
+# Rollups in Blockchain as a Scaling Solution
 
 Rollups are a Layer 2 scaling solution in blockchain that aim to reduce the load on the main chain by aggregating multiple transactions into a single transaction, which is then submitted to the main chain for validation. This allows for more transactions to be processed per block on the main chain, improving the scalability of the blockchain.
 
