@@ -1,4 +1,4 @@
-# Learn WEB3 in an amazing way⛓🤞
+# Learn WEB3 in an amazing way⛓
 **Learn Blockchain and deep dive into web3 space.** <br>
 
 **The term "Web3" refers to the idea of a better internet with additional identification, monetary, and social layers. a network based on open standards that respect openness and creativity. An internet that puts you in control of your data and drains power away from large corporations.**
