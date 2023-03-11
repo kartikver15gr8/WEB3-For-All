@@ -1,6 +1,12 @@
 | Date          | Topic                                           | Link                                                                                     |
 | -----         | -----                                           | -----                                                                                    |
+| 11 mar 2023   | WEB3 Guide                                      | https://twitter.com/KartikeyStack/status/1634449866377052160?s=20                        | 
+| 10 mar 2023   | Blog post on Lightning Network                  | https://twitter.com/KartikeyStack/status/1634263230339244032?s=20                        | 
+| 10 mar 2023   | MetaMask Learn NFT 😅😅                        | https://twitter.com/KartikeyStack/status/1633920166055534595?s=20                        |
 | 17 feb 2023   | JavaScript                                      | https://twitter.com/kvofficialx/status/1626528219527806981?s=20                          | 
+| 9 mar 2023    | Shardeum update                                 | https://twitter.com/KartikeyStack/status/1633553420614246402?s=20                        |
+| 8 mar 2023    | Buildspace                                      | https://twitter.com/KartikeyStack/status/1633515707840307207?s=20                        | 
+| 7 mar 2023    | LearnWEB3 DAO                                   | https://twitter.com/KartikeyStack/status/1633070202475937792?s=20                        | 
 | 10 feb 2023   | Mining Block Explained                          | https://twitter.com/kvofficialx/status/1623985150228037632?s=20&t=q9kD5n1lbAX7jDDabpgmLg | 
 | 6 feb 2023    | Opensource Streak is about to get broken        | https://twitter.com/kvofficialx/status/1622653326813970432?s=20&t=Q7Dsz0snsInGojc6FxR-ig |
 | 6 feb 2023    | Some Awesome Features of Remix IDE              | https://twitter.com/kvofficialx/status/1622615603877150725?s=20&t=wZ3OgfTwop0-lRhHYy21FA | 
