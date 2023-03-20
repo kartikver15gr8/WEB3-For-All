@@ -21,7 +21,7 @@
 [Check this out](https://ethereum.org/en/developers/docs/oracles/)
 
 
-# Testnet Faucets🌐
+# Testnet Faucets🌐☁️
 Main Faucet: https://faucets.chain.link <br>
 Backup Faucet: https://goerlifaucet.com/
 
