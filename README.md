@@ -1,3 +1,4 @@
+ ![GitHub repo size](https://img.shields.io/github/repo-size/kartikver15gr8/WEB3-for-All)
 # Learn WEB3 in an amazing way⛓
 **Learn Blockchain and deep dive into web3 space.** <br>
 
