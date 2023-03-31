@@ -135,8 +135,8 @@ Learning blockchain fundamentals is very crucial for building a foundation of th
 
 
 # Read Blogs📑
-- [Read on Medium](https://medium.com/@Kartikey_verma)
 - [Read on Hashnode](https://hashnode.com/@KvofficialX)
+- [Read on Medium](https://medium.com/@Kartikey_verma)
 - [Blog by Vitto Rivabella💜](https://vitto.cc/)
 
 <br>
